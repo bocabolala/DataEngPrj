@@ -11,7 +11,7 @@ clf = RandomForestClassifier()
 
 X_train, X_val, y_train, y_val = train_test_split(covtype.data, 
                                                     covtype.target, 
-                                                    test_size =0.4, )
+                                                    test_size=0.3, )
 
 params_search_space = {'max_depth':[30,50,100], 
                         'n_estimators':[20,30,40],
@@ -22,9 +22,11 @@ print(clf.get_params())
 
 clf.fit(X_train, y_train )
 
-base_scores = metrics.accuracy_socre(y_val, clf.predict(X_val))
+base_scores = metrics.accuracy_score(y_val, clf.predict(X_val))
 
-print(base_scores)
+print(clf.get_params())
+
+print('Score on default params:',base_scores)
 
 
 
