@@ -1,7 +1,7 @@
 from sklearn.datasets import fetch_covtype
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import train_test_split
-from sklearn.model_selection import GridSearchCV
+
 from sklearn import metrics
 from ray.tune.sklearn import TuneGridSearchCV 
 import pandas 
@@ -20,12 +20,11 @@ params_search_space = {'max_depth':[30,50],
 
 print(rfclf.get_params())
 
+rfclf.fit(X_train, y_train )
 
-# rfclf.fit(X_train, y_train )
+base_scores = metrics.accuracy_score(y_test, rfclf.predict(X_test))
 
-# base_scores = metrics.accuracy_score(y_val, rfclf.predict(X_val))
-
-# print('Score on default params:',base_scores)
+print('Score on default params:',base_scores)
 
 tune_search = TuneGridSearchCV(estimator=rfclf,
 								param_grid=params_search_space,
@@ -38,9 +37,14 @@ tune_search = TuneGridSearchCV(estimator=rfclf,
 print(tune_search)
 
 ts_best_score = tune_search.fit(X_train, y_train)
+print('Score on tune-searched best parameters in cross-validation:', tune_search.best_score_)
 
-best_combination = tune_search.best_params_
-print(best_combination)
+print('Best parameter found:', tune_search.best_params_)
+
+ts_best_param_test = metrics.accuracy_score(y_test, tune_search.predict(X_test))
+
+print('Score on tune-searched best parameters in testset:', ts_best_param_test)
+
 
 
 
