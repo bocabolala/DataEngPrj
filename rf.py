@@ -1,11 +1,12 @@
 from sklearn.datasets import fetch_covtype
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import train_test_split
-
 from sklearn import metrics
 from ray.tune.sklearn import TuneGridSearchCV 
-import pandas 
-import numpy as np
+import ray
+import time
+
+ray.init(address='auto')
 
 covtype = fetch_covtype(download_if_missing=True, as_frame=True)
 rfclf = RandomForestClassifier()
@@ -36,7 +37,10 @@ tune_search = TuneGridSearchCV(estimator=rfclf,
 
 print(tune_search)
 
+time_start = time.time()
 ts_best_score = tune_search.fit(X_train, y_train)
+print('Time cost:', time.time()-time_start, 's')
+
 print('Score on tune-searched best parameters in cross-validation:', tune_search.best_score_)
 
 print('Best parameter found:', tune_search.best_params_)
