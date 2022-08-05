@@ -1,7 +1,11 @@
 Flask
 amqp
 celery
-tensorflow==2.5.3 
+scikit-learn
+tensorflow==2.4.1
 keras==2.4.1
+protobuf==3.20.1
 numpy
+pandas 
 future
+pickle5

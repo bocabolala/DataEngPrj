@@ -1,65 +1,88 @@
-from celery import Celery
-
-from numpy import loadtxt
+import os 
+import pickle 
 import numpy as np
-from tensorflow.keras.models import model_from_json
-from tensorflow.keras.models import Sequential
+from celery import Celery
+from celery.result import AsyncResult
+import sklearn
+from sklearn.metrics import r2_score
+import tensorflow 
+from tensorflow import keras
 
-model_json_file = './model.json'
-model_weights_file = './model.h5'
-data_file = './pima-indians-diabetes.csv'
 
-def load_data():
-    dataset =  loadtxt(data_file, delimiter=',')
-    X = dataset[:,0:8]
-    y = dataset[:,8]
-    y = list(map(int, y))
-    y = np.asarray(y, dtype=np.uint8)
-    return X, y
-
-def load_model():
-    # load json and create model
-    json_file = open(model_json_file, 'r')
-    loaded_model_json = json_file.read()
-    json_file.close()
-    loaded_model = model_from_json(loaded_model_json)
-    # load weights into new model
-    loaded_model.load_weights(model_weights_file)
-    #print("Loaded model from disk")
-    return loaded_model
+os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
 
 # Celery configuration
-CELERY_BROKER_URL = 'amqp://rabbitmq:rabbitmq@rabbit:5672/'
+CELERY_BROKER_URL = 'pyamqp://rabbitmq:rabbitmq@rabbit:5672/'
 CELERY_RESULT_BACKEND = 'rpc://'
 # Initialize Celery
 celery = Celery('workerA', broker=CELERY_BROKER_URL, backend=CELERY_RESULT_BACKEND)
 
-@celery.task()
+
+def load_model():
+    global X_val
+    global y_val 
+    # ScikitLearn model config
+    model_path = 'model.pkl'
+
+    # TF model config
+    # model_path = './model.h5'
+    # model_json = './model.json'
+
+    # Test data path
+    data_path = './test.csv' 
+
+    # Read file from csv file 
+    test_data = np.loadtxt(data_path, delimiter=',')
+    
+    X_val = test_data[:,:-1]
+    y_val = test_data[:,-1]
+
+    try: 
+        # Tensorflow model
+        json_file = open(model_json, "r")
+        model = keras.models.model_from_json(json_file.read())
+        model.load_weights(model_path)
+    except:
+        # Sklearn model 
+        with open(model_path, 'rb') as mdl:
+            model = pickle.load(mdl)
+    return model
+
+@celery.task
 def add_nums(a, b):
    return a + b
 
 @celery.task
 def get_predictions():
+    # Load model and weights
+    model = load_model()
+    predictions = model.predict(X_val)
+    predictions.flatten()
+
+    # Generate result dictionary
     results ={}
-    X, y = load_data()
-    loaded_model = load_model()
-    predictions = loaded_model.predict_classes(X)
-    results['y'] = y.tolist()
+    results['y'] = y_val.tolist()
     results['predicted'] =[]
-    #print ('results[y]:', results['y'])
     for i in range(len(results['y'])):
-        #print('%s => %d (expected %d)' % (X[i].tolist(), predictions[i], y[i]))
-        results['predicted'].append(predictions[i].tolist()[0])
-    #print ('results:', results)
+        results['predicted'].append(predictions[i])
+
+    # Convert float to string 
+    results['y'] = [str(int(x)) for x in results['y']]
+    results['predicted'] = [str(int(x)) for x in results['predicted']]
+
     return results
 
 @celery.task
 def get_accuracy():
-    X, y = load_data()
-    loaded_model = load_model()
-    loaded_model.compile(loss='binary_crossentropy', optimizer='rmsprop', metrics=['accuracy'])
+    model = load_model()
+    predictions = model.predict(X_val)
+    predictions.flatten()
 
-    score = loaded_model.evaluate(X, y, verbose=0)
-    #print("%s: %.2f%%" % (loaded_model.metrics_names[1], score[1]*100))
-    return score[1]*100
+    results ={}
+    results['y'] = y_val.tolist()
+    results['predicted'] =[]
+    for i in range(len(results['y'])):
+        results['predicted'].append(predictions[i])
+           
+    return r2_score(results['y'], results['predicted'])
 

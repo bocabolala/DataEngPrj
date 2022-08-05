@@ -1,0 +1,996 @@
+,stars,url,forks,language,size,subscribers,network,issues,watchers,pulls,commits,private,license
+0,346019,https://github.com/freeCodeCamp/freeCodeCamp.git,28631,TypeScript,315892,8471,28631,145,346019,27,30441,False,"BSD 3-Clause ""New"" or ""Revised"" License"
+1,195821,https://github.com/vuejs/vue.git,32118,JavaScript,27949,6126,32118,569,195821,242,3227,False,MIT License
+2,191817,https://github.com/public-apis/public-apis.git,22142,Python,5423,3527,22142,1,191817,0,4525,False,MIT License
+3,187981,https://github.com/facebook/react.git,38681,JavaScript,178526,6635,38681,924,187981,250,14974,False,MIT License
+4,164934,https://github.com/tensorflow/tensorflow.git,86752,C++,896271,7860,86752,2417,164934,202,129325,False,Apache License 2.0
+5,157260,https://github.com/twbs/bootstrap.git,76660,JavaScript,201504,6921,76660,343,157260,119,21711,False,MIT License
+6,145127,https://github.com/ohmyzsh/ohmyzsh.git,24036,Shell,9870,2681,24036,619,145127,417,6611,False,MIT License
+7,140911,https://github.com/trekhleb/javascript-algorithms.git,23404,JavaScript,4493,4286,23404,245,140911,142,1032,False,MIT License
+8,140530,https://github.com/flutter/flutter.git,22047,Dart,198637,3563,22047,10714,140530,181,28947,False,"BSD 3-Clause ""New"" or ""Revised"" License"
+9,136003,https://github.com/TheAlgorithms/Python.git,35547,Python,12536,6004,35547,254,136003,223,2413,False,MIT License
+10,131692,https://github.com/microsoft/vscode.git,22367,TypeScript,494337,3107,22367,6393,131692,288,96548,False,MIT License
+11,123007,https://github.com/airbnb/javascript.git,23622,JavaScript,3512,3852,23622,133,123007,47,1919,False,MIT License
+12,112864,https://github.com/ossu/computer-science.git,15500,None,1119,5205,15500,12,112864,5,931,False,MIT License
+13,102723,https://github.com/facebook/react-native.git,22095,JavaScript,849189,3676,22095,2244,102723,321,24682,False,Other
+14,101689,https://github.com/electron/electron.git,13526,C++,117845,2932,13526,1627,101689,87,26350,False,MIT License
+15,99161,https://github.com/golang/go.git,14778,Go,305774,3508,14778,7803,99161,260,52657,False,Other
+16,95012,https://github.com/facebook/create-react-app.git,24538,JavaScript,23096,1925,24538,1651,95012,337,2762,False,MIT License
+17,93367,https://github.com/axios/axios.git,9506,JavaScript,4786,1213,9506,258,93367,12,1196,False,MIT License
+18,92701,https://github.com/justjavac/free-programming-books-zh_CN.git,26114,None,1028,5964,26114,31,92701,30,911,False,GNU General Public License v3.0
+19,88411,https://github.com/kubernetes/kubernetes.git,32435,Go,1081378,3260,32435,2338,88411,691,108244,False,Apache License 2.0
+20,86729,https://github.com/vercel/next.js.git,18336,JavaScript,1748944,1267,18336,1258,86729,266,11214,False,MIT License
+21,83100,https://github.com/microsoft/terminal.git,7364,C++,109222,1305,7364,1485,83100,45,3011,False,MIT License
+22,82437,https://github.com/denoland/deno.git,4421,Rust,60188,1556,4421,948,82437,84,7370,False,MIT License
+23,81966,https://github.com/mrdoob/three.js.git,31735,JavaScript,1151491,2560,31735,493,81966,141,40095,False,MIT License
+24,81354,https://github.com/angular/angular.git,21462,TypeScript,388971,3091,21462,1390,81354,82,24485,False,MIT License
+25,80639,https://github.com/microsoft/TypeScript.git,10543,TypeScript,1779157,2124,10543,5546,80639,246,33361,False,Apache License 2.0
+26,80641,https://github.com/avelino/awesome-go.git,9839,Go,9784,2687,9839,29,80641,18,4201,False,MIT License
+27,80271,https://github.com/ant-design/ant-design.git,33974,TypeScript,894778,171,33974,835,80271,57,22012,False,MIT License
+28,78420,https://github.com/mui/material-ui.git,27057,JavaScript,290674,1371,27057,1091,78420,159,19656,False,MIT License
+29,77912,https://github.com/puppeteer/puppeteer.git,8331,TypeScript,18012,1232,8331,1872,77912,15,2610,False,Apache License 2.0
+30,76105,https://github.com/PanJiaChen/vue-element-admin.git,27735,Vue,15436,2225,27735,1190,76105,92,1019,False,MIT License
+31,73083,https://github.com/microsoft/PowerToys.git,4132,C#,287997,1032,4132,2590,73083,27,5913,False,MIT License
+32,70953,https://github.com/nvbn/thefuck.git,3195,Python,4095,850,3195,258,70953,60,1625,False,MIT License
+33,70932,https://github.com/storybookjs/storybook.git,7321,TypeScript,507345,937,7321,1877,70932,133,39775,False,MIT License
+34,69936,https://github.com/yangshun/tech-interview-handbook.git,9674,JavaScript,16835,1875,9674,10,69936,0,587,False,MIT License
+35,67976,https://github.com/trimstray/the-book-of-secret-knowledge.git,5991,None,3479,1825,5991,14,67976,9,1066,False,MIT License
+36,67621,https://github.com/practical-tutorials/project-based-learning.git,10148,None,460,1896,10148,14,67621,1,564,False,MIT License
+37,67535,https://github.com/ryanmcdermott/clean-code-javascript.git,9001,JavaScript,574,1737,9001,57,67535,15,540,False,MIT License
+38,65789,https://github.com/gothinkster/realworld.git,6095,Shell,4248,1565,6095,61,65789,8,656,False,MIT License
+39,65149,https://github.com/Genymobile/scrcpy.git,7020,C,3784,1028,7020,1015,65149,27,1804,False,Apache License 2.0
+40,65032,https://github.com/vuejs/awesome-vue.git,8989,None,12699,2181,8989,32,65032,7,4818,False,MIT License
+41,64083,https://github.com/bitcoin/bitcoin.git,32381,C++,208494,3928,32381,962,64083,371,33876,False,MIT License
+42,63220,https://github.com/huggingface/transformers.git,14898,Python,90443,810,14898,518,63220,143,9799,False,Apache License 2.0
+43,61591,https://github.com/opencv/opencv.git,51420,C++,506886,2648,51420,2146,61591,119,31819,False,Other
+44,61166,https://github.com/spring-projects/spring-boot.git,36393,Java,150867,3375,36393,568,61166,21,37953,False,Apache License 2.0
+45,61169,https://github.com/typicode/json-server.git,6021,JavaScript,2579,1023,6021,625,61169,77,850,False,MIT License
+46,61046,https://github.com/webpack/webpack.git,8368,JavaScript,58195,1544,8368,303,61046,128,15107,False,MIT License
+47,59718,https://github.com/hakimel/reveal.js.git,16158,JavaScript,18930,1707,16158,708,59718,84,2909,False,MIT License
+48,59560,https://github.com/apple/swift.git,9583,C++,806595,2534,9583,6018,59560,578,135326,False,Apache License 2.0
+49,59459,https://github.com/angular/angular.js.git,28358,JavaScript,101744,3857,28358,468,59459,77,9073,False,MIT License
+50,59220,https://github.com/netdata/netdata.git,5298,C,97372,1414,5298,327,59220,97,13885,False,GNU General Public License v3.0
+51,58999,https://github.com/pallets/flask.git,15072,Python,9076,2161,15072,21,58999,5,4655,False,"BSD 3-Clause ""New"" or ""Revised"" License"
+52,58948,https://github.com/gohugoio/hugo.git,6602,Go,109604,1037,6602,616,58948,52,7063,False,Apache License 2.0
+53,58235,https://github.com/macrozheng/mall.git,24706,Java,57632,2182,24706,29,58235,5,798,False,Apache License 2.0
+54,58172,https://github.com/sveltejs/svelte.git,2859,TypeScript,68505,855,2859,716,58172,119,6732,False,MIT License
+55,57807,https://github.com/nvm-sh/nvm.git,6123,Shell,3274,932,6123,351,57807,63,2070,False,MIT License
+56,57535,https://github.com/atom/atom.git,17162,JavaScript,329452,2610,17162,886,57535,29,38496,False,MIT License
+57,56992,https://github.com/expressjs/express.git,9666,JavaScript,9096,1744,9666,141,56992,44,5734,False,MIT License
+58,56920,https://github.com/chartjs/Chart.js.git,11459,JavaScript,35845,1390,11459,149,56920,7,4190,False,MIT License
+59,56847,https://github.com/tailwindlabs/tailwindcss.git,2827,JavaScript,62803,573,2827,25,56847,18,4626,False,MIT License
+60,56380,https://github.com/fatedier/frp.git,10181,Go,25518,1550,10181,101,56380,5,1002,False,Apache License 2.0
+61,56213,https://github.com/jquery/jquery.git,20418,JavaScript,31133,3286,20418,87,56213,15,6562,False,MIT License
+62,55746,https://github.com/socketio/socket.io.git,10031,TypeScript,15571,1579,10031,87,55746,5,1921,False,MIT License
+63,55328,https://github.com/adam-p/markdown-here.git,10744,JavaScript,16027,1045,10744,312,55328,28,807,False,MIT License
+64,55180,https://github.com/keras-team/keras.git,19087,Python,24942,1957,19087,338,55180,89,6923,False,Apache License 2.0
+65,54952,https://github.com/redis/redis.git,21249,C,117727,2618,21249,2082,54952,451,11166,False,"BSD 3-Clause ""New"" or ""Revised"" License"
+66,53498,https://github.com/coder/code-server.git,4485,TypeScript,50599,693,4485,175,53498,3,3291,False,MIT License
+67,53131,https://github.com/ansible/ansible.git,21907,Python,215044,1977,21907,1196,53131,405,52627,False,GNU General Public License v3.0
+68,53126,https://github.com/h5bp/Front-end-Developer-Interview-Questions.git,10394,Nunjucks,3342,2327,10394,5,53126,1,908,False,MIT License
+69,52868,https://github.com/gatsbyjs/gatsby.git,10267,JavaScript,1040795,832,10267,328,52868,214,20188,False,MIT License
+70,52786,https://github.com/h5bp/html5-boilerplate.git,12012,JavaScript,21362,2636,12012,14,52786,7,2334,False,MIT License
+71,52598,https://github.com/kelseyhightower/nocode.git,4543,Dockerfile,5,367,4543,4170,52598,455,4,False,Apache License 2.0
+72,52535,https://github.com/home-assistant/core.git,18229,Python,348268,1346,18229,1649,52535,368,49809,False,Apache License 2.0
+73,52488,https://github.com/florinpop17/app-ideas.git,7166,None,640,1885,7166,281,52488,236,532,False,MIT License
+74,52078,https://github.com/ElemeFE/element.git,13917,Vue,86135,1347,13917,2056,52078,165,4532,False,MIT License
+75,51020,https://github.com/apache/echarts.git,18959,TypeScript,217597,2024,18959,2139,51020,75,8663,False,Apache License 2.0
+76,50695,https://github.com/rails/rails.git,20341,Ruby,244660,2410,20341,601,50695,245,83635,False,MIT License
+77,50054,https://github.com/scikit-learn/scikit-learn.git,23003,Python,140550,2186,23003,2228,50054,658,28404,False,"BSD 3-Clause ""New"" or ""Revised"" License"
+78,50014,https://github.com/Semantic-Org/Semantic-UI.git,5138,JavaScript,112276,1338,5138,1056,50014,116,6684,False,MIT License
+79,49615,https://github.com/microsoft/Web-Dev-For-Beginners.git,7134,JavaScript,64447,2387,7134,0,49615,0,1274,False,MIT License
+80,48979,https://github.com/leonardomso/33-js-concepts.git,6708,JavaScript,716,1315,6708,12,48979,4,545,False,MIT License
+81,48857,https://github.com/awesomedata/awesome-public-datasets.git,8675,None,924,2252,8675,114,48857,60,745,False,MIT License
+82,47853,https://github.com/scutan90/DeepLearning-500-questions.git,15012,JavaScript,207074,2321,15012,101,47853,4,1275,False,GNU General Public License v3.0
+83,47669,https://github.com/spring-projects/spring-framework.git,33666,Java,174621,3431,33666,1333,47669,181,24167,False,Apache License 2.0
+84,47556,https://github.com/necolas/normalize.css.git,10705,CSS,379,1538,10705,74,47556,34,360,False,MIT License
+85,47439,https://github.com/psf/requests.git,8748,Python,12787,1363,8748,219,47439,45,6111,False,Apache License 2.0
+86,47196,https://github.com/mermaid-js/mermaid.git,3476,JavaScript,179799,592,3476,689,47196,11,4750,False,MIT License
+87,46930,https://github.com/nestjs/nest.git,5324,TypeScript,251896,686,5324,81,46930,35,10567,False,MIT License
+88,46916,https://github.com/remix-run/react-router.git,9147,TypeScript,16651,841,9147,89,46916,14,5270,False,MIT License
+89,46752,https://github.com/sdmg15/Best-websites-a-programmer-should-visit.git,6130,None,1827,1303,6130,617,46752,598,1071,False,MIT License
+90,46528,https://github.com/moment/moment.git,7067,JavaScript,20507,883,7067,203,46528,46,3969,False,MIT License
+91,46175,https://github.com/apache/superset.git,9037,TypeScript,384806,1445,9037,1086,46175,141,11611,False,Apache License 2.0
+92,46036,https://github.com/TheAlgorithms/Java.git,15059,Java,2796,2264,15059,10,46036,2,1608,False,MIT License
+93,45497,https://github.com/jgthms/bulma.git,3870,CSS,99544,622,3870,295,45497,154,1688,False,MIT License
+94,45195,https://github.com/tiangolo/fastapi.git,3488,Python,12550,581,3488,1466,45195,441,2140,False,MIT License
+95,45193,https://github.com/tesseract-ocr/tesseract.git,7985,C++,52156,1674,7985,373,45193,13,5979,False,Apache License 2.0
+96,44714,https://github.com/syncthing/syncthing.git,3413,Go,119656,983,3413,323,44714,14,6825,False,Mozilla Public License 2.0
+97,44642,https://github.com/jekyll/jekyll.git,9778,Ruby,44455,1431,9778,179,44642,93,11513,False,MIT License
+98,44597,https://github.com/google/guava.git,9949,Java,386523,2431,9949,752,44597,107,5817,False,Apache License 2.0
+99,43533,https://github.com/lydiahallie/javascript-questions.git,6135,None,3747,1201,6135,82,43533,19,1223,False,MIT License
+100,43448,https://github.com/hoppscotch/hoppscotch.git,2927,Vue,59534,452,2927,75,43448,6,4226,False,MIT License
+101,42738,https://github.com/serverless/serverless.git,5258,JavaScript,95897,964,5258,900,42738,36,15385,False,MIT License
+102,42649,https://github.com/wasabeef/awesome-android-ui.git,10183,None,871803,2843,10183,17,42649,13,457,False,MIT License
+103,42642,https://github.com/prettier/prettier.git,3308,JavaScript,88370,413,3308,1078,42642,221,6867,False,MIT License
+104,42439,https://github.com/prometheus/prometheus.git,7115,Go,148059,1134,7115,647,42439,203,9943,False,Apache License 2.0
+105,42362,https://github.com/minimaxir/big-list-of-naughty-strings.git,2025,Python,330,871,2025,87,42362,32,273,False,MIT License
+106,42257,https://github.com/juliangarnier/anime.git,3487,JavaScript,47973,754,3487,186,42257,23,736,False,MIT License
+107,42140,https://github.com/square/okhttp.git,8843,Kotlin,47065,1653,8843,136,42140,6,5114,False,Apache License 2.0
+108,41693,https://github.com/vitejs/vite.git,3301,TypeScript,19058,352,3301,618,41693,145,4092,False,MIT License
+109,41570,https://github.com/ziishaned/learn-regex.git,5980,None,1073,912,5980,63,41570,15,327,False,MIT License
+110,41154,https://github.com/anuraghazra/github-readme-stats.git,9644,JavaScript,1100,229,9643,270,41154,192,517,False,MIT License
+111,41066,https://github.com/deepfakes/faceswap.git,11674,Python,200261,1517,11674,16,41066,0,1473,False,GNU General Public License v3.0
+112,40914,https://github.com/ColorlibHQ/AdminLTE.git,17631,JavaScript,128181,2037,17631,70,40914,25,2502,False,MIT License
+113,40844,https://github.com/babel/babel.git,5324,TypeScript,86446,827,5324,824,40844,167,15186,False,MIT License
+114,40716,https://github.com/parcel-bundler/parcel.git,2136,JavaScript,33514,455,2136,763,40716,74,2716,False,MIT License
+115,40736,https://github.com/android/architecture-samples.git,11139,Kotlin,12439,2490,11139,210,40736,69,756,False,Apache License 2.0
+116,40379,https://github.com/caddyserver/caddy.git,3199,Go,15449,774,3199,109,40379,17,1312,False,Apache License 2.0
+117,40235,https://github.com/astaxie/build-web-application-with-golang.git,10529,Go,38326,2450,10529,111,40235,3,5176,False,"BSD 3-Clause ""New"" or ""Revised"" License"
+118,40188,https://github.com/TryGhost/Ghost.git,8701,JavaScript,75295,1058,8701,43,40188,14,16330,False,MIT License
+119,40085,https://github.com/gogs/gogs.git,4562,Go,200095,1047,4562,798,40085,27,5672,False,MIT License
+120,39892,https://github.com/etcd-io/etcd.git,8564,Go,68329,1348,8564,185,39892,39,18012,False,Apache License 2.0
+121,39741,https://github.com/bradtraversy/design-resources-for-developers.git,8811,None,4724,873,8811,3,39741,2,1884,False,MIT License
+122,39591,https://github.com/v2ray/v2ray-core.git,8458,Go,55110,1392,8458,34,39591,13,5387,False,MIT License
+123,39456,https://github.com/vsouza/awesome-ios.git,6543,Swift,15378,1857,6543,4,39456,3,6246,False,MIT License
+124,39242,https://github.com/alacritty/alacritty.git,2277,Rust,11736,454,2277,319,39242,13,1975,False,Apache License 2.0
+125,39195,https://github.com/JuliaLang/julia.git,4903,Julia,237774,978,4903,4090,39195,815,51916,False,MIT License
+126,39038,https://github.com/danielmiessler/SecLists.git,19932,PHP,864551,1795,19932,37,39038,14,1346,False,MIT License
+127,38968,https://github.com/facebook/jest.git,5816,TypeScript,272383,554,5816,1085,38968,153,6212,False,MIT License
+128,38900,https://github.com/nwjs/nw.js.git,3969,JavaScript,127885,1636,3969,905,38900,11,4702,False,MIT License
+129,38913,https://github.com/iamkun/dayjs.git,1964,JavaScript,5396,284,1964,476,38913,73,1403,False,MIT License
+130,38682,https://github.com/Dogfalo/materialize.git,4885,JavaScript,163680,1015,4885,806,38682,182,3878,False,MIT License
+131,38596,https://github.com/mozilla/pdf.js.git,8797,JavaScript,133227,1115,8797,354,38596,13,15693,False,Apache License 2.0
+132,38619,https://github.com/karan/Projects.git,10241,None,1790,1906,10241,80,38619,43,182,False,MIT License
+133,38505,https://github.com/vercel/hyper.git,3191,TypeScript,20660,478,3191,792,38505,27,3155,False,MIT License
+134,38435,https://github.com/cypress-io/cypress.git,2343,JavaScript,552942,576,2343,2212,38435,44,16638,False,MIT License
+135,38264,https://github.com/obsproject/obs-studio.git,5889,C,59273,1395,5889,666,38264,170,10855,False,GNU General Public License v2.0
+136,38237,https://github.com/ocornut/imgui.git,6684,C++,81614,1010,6684,745,38237,116,6896,False,MIT License
+137,38020,https://github.com/bailicangdu/vue2-elm.git,12223,Vue,34427,1521,12223,95,38020,0,508,False,GNU General Public License v2.0
+138,38011,https://github.com/traefik/traefik.git,4162,Go,64497,689,4162,632,38011,32,4339,False,MIT License
+139,37746,https://github.com/microsoft/playwright.git,1712,TypeScript,108032,334,1712,537,37746,24,7774,False,Apache License 2.0
+140,37626,https://github.com/Alamofire/Alamofire.git,7134,Swift,27149,1076,7134,30,37626,2,1555,False,MIT License
+141,37414,https://github.com/swisskyrepo/PayloadsAllTheThings.git,10159,Python,12342,1569,10159,16,37414,5,1400,False,MIT License
+142,37379,https://github.com/fffaraz/awesome-cpp.git,6238,None,1980,2028,6238,404,37379,60,1499,False,MIT License
+143,37356,https://github.com/ethereum/go-ethereum.git,13894,Go,184290,2148,13894,323,37356,104,13330,False,Other
+144,37270,https://github.com/apache/dubbo.git,24952,Java,39688,3122,24952,386,37270,28,5477,False,Apache License 2.0
+145,36791,https://github.com/algorithm-visualizer/algorithm-visualizer.git,6020,JavaScript,24015,1214,6020,36,36791,19,667,False,MIT License
+146,36673,https://github.com/impress/impress.js.git,6842,JavaScript,4473,1259,6842,60,36673,12,401,False,MIT License
+147,36545,https://github.com/dcloudio/uni-app.git,3297,JavaScript,86106,504,3297,935,36545,14,9649,False,Apache License 2.0
+148,36558,https://github.com/styled-components/styled-components.git,2281,TypeScript,11128,380,2281,88,36558,7,3310,False,MIT License
+149,36025,https://github.com/microsoft/ML-For-Beginners.git,6967,Jupyter Notebook,177830,689,6967,3,36025,0,1461,False,MIT License
+150,35980,https://github.com/chinese-poetry/chinese-poetry.git,7508,JavaScript,202616,1076,7508,77,35980,1,580,False,MIT License
+151,35679,https://github.com/discourse/discourse.git,7671,Ruby,460727,909,7671,53,35679,53,45058,False,Other
+152,35584,https://github.com/huginn/huginn.git,3265,Ruby,8429,736,3265,620,35584,83,3437,False,MIT License
+153,35388,https://github.com/GitSquared/edex-ui.git,2054,JavaScript,31579,1458,2054,6,35388,0,1428,False,GNU General Public License v3.0
+154,35153,https://github.com/FiloSottile/mkcert.git,1700,Go,1844,449,1700,85,35153,15,164,False,"BSD 3-Clause ""New"" or ""Revised"" License"
+155,34766,https://github.com/hexojs/hexo.git,4342,JavaScript,7310,831,4342,95,34766,14,3529,False,MIT License
+156,34684,https://github.com/ventoy/Ventoy.git,2588,C,183134,524,2588,289,34684,26,701,False,GNU General Public License v3.0
+157,34551,https://github.com/Leaflet/Leaflet.git,5302,JavaScript,54509,910,5302,499,34551,118,7273,False,"BSD 2-Clause ""Simplified"" License"
+158,34515,https://github.com/commaai/openpilot.git,6310,Python,1854982,1284,6310,207,34515,72,6514,False,MIT License
+159,34287,https://github.com/grpc/grpc.git,9070,C++,425854,1353,9070,925,34287,187,50957,False,Apache License 2.0
+160,34227,https://github.com/vuetifyjs/vuetify.git,6216,TypeScript,75274,604,6216,1068,34227,56,11713,False,MIT License
+161,34058,https://github.com/slatedocs/slate.git,21432,SCSS,2362,513,21432,39,34058,3,686,False,Apache License 2.0
+162,33939,https://github.com/yangshun/front-end-interview-handbook.git,5046,JavaScript,11077,784,5046,18,33939,2,573,False,MIT License
+163,33904,https://github.com/pandas-dev/pandas.git,14440,Python,271218,1109,14440,3555,33904,120,29419,False,"BSD 3-Clause ""New"" or ""Revised"" License"
+164,33891,https://github.com/ngosang/trackerslist.git,6064,None,4029,1273,6064,3,33891,0,2333,False,GNU General Public License v2.0
+165,33629,https://github.com/adobe/brackets.git,8152,JavaScript,92974,1603,8152,2790,33629,170,17847,False,MIT License
+166,33590,https://github.com/PowerShell/PowerShell.git,5533,C#,84400,1391,5533,3236,33590,78,9368,False,MIT License
+167,33565,https://github.com/alvarotrigo/fullPage.js.git,7458,JavaScript,15935,861,7458,175,33565,20,1990,False,GNU General Public License v3.0
+168,33561,https://github.com/typescript-cheatsheets/react.git,2863,JavaScript,2788,387,2863,2,33561,0,945,False,MIT License
+169,33344,https://github.com/sahat/hackathon-starter.git,7754,JavaScript,13555,809,7754,4,33344,1,2566,False,MIT License
+170,33311,https://github.com/AFNetworking/AFNetworking.git,10259,Objective-C,6133,1610,10259,93,33311,20,2943,False,MIT License
+171,33243,https://github.com/supabase/supabase.git,1917,TypeScript,529069,346,1917,264,33243,54,6998,False,Apache License 2.0
+172,32861,https://github.com/apache/spark.git,25615,Scala,420254,2076,25615,214,32861,214,33150,False,Apache License 2.0
+173,32829,https://github.com/rclone/rclone.git,2982,Go,173845,566,2982,774,32829,72,6147,False,MIT License
+174,32750,https://github.com/airbnb/lottie-android.git,5265,Java,135821,850,5265,17,32750,1,1427,False,Apache License 2.0
+175,32820,https://github.com/Eugeny/tabby.git,1996,TypeScript,84272,372,1996,882,32820,37,5097,False,MIT License
+176,32635,https://github.com/koajs/koa.git,3184,JavaScript,2727,840,3184,71,32635,36,1154,False,MIT License
+177,32583,https://github.com/iperov/DeepFaceLab.git,7431,Python,843050,1015,7431,418,32583,1,1305,False,GNU General Public License v3.0
+178,32589,https://github.com/lerna/lerna.git,2143,JavaScript,10289,255,2143,788,32589,68,2223,False,MIT License
+179,32650,https://github.com/quilljs/quill.git,2789,JavaScript,13703,469,2789,1227,32650,88,5255,False,"BSD 3-Clause ""New"" or ""Revised"" License"
+180,30924,https://github.com/Trinea/android-open-project.git,12063,None,2068,3737,12063,27,30924,15,954,False,Apache License 2.0
+181,30807,https://github.com/Blankj/AndroidUtilCode.git,10254,Java,47296,1185,10254,178,30807,4,1404,False,Apache License 2.0
+182,30627,https://github.com/google/styleguide.git,12099,HTML,2673,1289,12099,301,30627,118,462,False,Apache License 2.0
+183,30583,https://github.com/testerSunshine/12306.git,9462,Python,58572,852,9462,269,30583,60,435,False,MIT License
+184,30505,https://github.com/eugenp/tutorials.git,48821,Java,330286,1538,48821,83,30505,41,24535,False,MIT License
+185,30478,https://github.com/nativefier/nativefier.git,1962,TypeScript,6280,433,1962,193,30478,5,1192,False,MIT License
+186,30381,https://github.com/jaredpalmer/formik.git,2519,TypeScript,13364,242,2519,717,30381,134,1703,False,Apache License 2.0
+187,30294,https://github.com/carbon-app/carbon.git,1710,JavaScript,19461,252,1710,19,30294,2,1785,False,MIT License
+188,30272,https://github.com/istio/istio.git,6330,Go,221071,1023,6330,653,30272,66,17993,False,Apache License 2.0
+189,30163,https://github.com/SheetJS/sheetjs.git,7666,JavaScript,101782,598,7666,112,30163,8,716,False,Apache License 2.0
+190,30136,https://github.com/skylot/jadx.git,3803,Java,18775,777,3803,214,30136,1,1728,False,Apache License 2.0
+191,30128,https://github.com/nlohmann/json.git,5173,C++,295354,747,5173,50,30128,20,4356,False,MIT License
+192,30063,https://github.com/GokuMohandas/MadeWithML.git,5034,Jupyter Notebook,27703,1205,5034,3,30063,3,36,False,MIT License
+193,29984,https://github.com/iina/iina.git,2253,Swift,252658,542,2253,1346,29984,57,2961,False,GNU General Public License v3.0
+194,29860,https://github.com/go-gitea/gitea.git,3766,Go,240847,483,3766,1788,29860,167,13255,False,MIT License
+195,29918,https://github.com/vuejs/core.git,5356,TypeScript,19763,720,5356,538,29918,173,4334,False,MIT License
+196,29539,https://github.com/zxing/zxing.git,9216,Java,241354,1697,9216,6,29539,1,3663,False,Apache License 2.0
+197,29534,https://github.com/jgraph/drawio-desktop.git,3307,Shell,2013,442,3307,123,29534,0,533,False,Apache License 2.0
+198,29471,https://github.com/microsoft/monaco-editor.git,2801,JavaScript,48593,505,2801,663,29471,9,2810,False,MIT License
+199,29262,https://github.com/jgraph/drawio.git,5980,JavaScript,1005230,572,5980,273,29262,2,1772,False,Apache License 2.0
+200,29238,https://github.com/foundation/foundation-sites.git,5653,HTML,121741,1302,5653,45,29238,11,17200,False,MIT License
+201,29234,https://github.com/vuejs/vue-cli.git,6187,JavaScript,29098,660,6187,932,29234,114,3500,False,MIT License
+202,29216,https://github.com/google/leveldb.git,6478,C++,1622,1314,6478,214,29216,60,417,False,"BSD 3-Clause ""New"" or ""Revised"" License"
+203,29026,https://github.com/vlang/v.git,1782,V,55546,479,1782,799,29026,21,13063,False,MIT License
+204,29069,https://github.com/chubin/cheat.sh.git,1469,Python,4564,557,1469,89,29069,4,901,False,MIT License
+205,28908,https://github.com/lukehoban/es6features.git,2935,None,199,1244,2935,39,28908,19,109,False,MIT License
+206,28833,https://github.com/ariya/phantomjs.git,5827,C++,164709,1149,5827,13,28833,0,1958,False,"BSD 3-Clause ""New"" or ""Revised"" License"
+207,28729,https://github.com/date-fns/date-fns.git,1446,TypeScript,17417,213,1446,402,28729,83,1873,False,MIT License
+208,28591,https://github.com/poteto/hiring-without-whiteboards.git,2516,JavaScript,4210,615,2516,38,28591,29,1742,False,MIT License
+209,28541,https://github.com/fxsjy/jieba.git,6556,Python,56033,1292,6556,642,28541,51,523,False,MIT License
+210,30355,https://github.com/shadowsocks/ShadowsocksX-NG.git,7960,Swift,50769,965,7960,255,30355,5,584,False,GNU General Public License v3.0
+225,29335,https://github.com/excalidraw/excalidraw.git,2367,TypeScript,34678,249,2367,642,29335,109,2636,False,MIT License
+228,29209,https://github.com/netty/netty.git,14492,Java,79112,1792,14492,521,29209,22,10820,False,Apache License 2.0
+235,28591,https://github.com/poteto/hiring-without-whiteboards.git,2516,JavaScript,4210,615,2516,38,28592,29,1742,False,MIT License
+237,28497,https://github.com/cli/cli.git,3712,Go,25241,707,3712,370,28497,28,5592,False,MIT License
+238,28475,https://github.com/LeCoupa/awesome-cheatsheets.git,4629,JavaScript,8930,671,4629,60,28475,42,715,False,MIT License
+239,28446,https://github.com/react-boilerplate/react-boilerplate.git,6057,JavaScript,8778,553,6057,97,28446,38,1457,False,MIT License
+240,28343,https://github.com/dotnet/aspnetcore.git,7825,C#,316345,1440,7825,2307,28343,59,49319,False,MIT License
+241,28195,https://github.com/react-hook-form/react-hook-form.git,1369,TypeScript,26835,171,1369,7,28195,6,3187,False,MIT License
+242,28115,https://github.com/romkatv/powerlevel10k.git,1506,Shell,74812,160,1506,28,28115,6,4026,False,MIT License
+243,27871,https://github.com/jashkenas/backbone.git,5596,JavaScript,27054,1330,5596,72,27871,27,3450,False,MIT License
+244,27817,https://github.com/shengxinjing/programmer-job-blacklist.git,1867,Shell,329,1259,1867,155,27817,9,147,False,MIT License
+245,27786,https://github.com/codepath/android_guides.git,6469,None,1100,2164,6469,158,27786,3,62,False,MIT License
+246,27793,https://github.com/mathiasbynens/dotfiles.git,8748,Shell,836,723,8748,183,27793,51,761,False,MIT License
+247,27554,https://github.com/caolan/async.git,2440,JavaScript,6636,681,2440,6,27554,1,1864,False,MIT License
+248,27552,https://github.com/vuejs/vuex.git,9472,JavaScript,16800,792,9472,139,27552,53,1201,False,MIT License
+249,27533,https://github.com/junegunn/vim-plug.git,1731,Vim script,8857,374,1731,101,27533,14,684,False,MIT License
+250,27485,https://github.com/kenwheeler/slick.git,5900,JavaScript,3655,577,5900,1347,27485,208,921,False,MIT License
+251,27488,https://github.com/alibaba/p3c.git,7554,Kotlin,27110,1326,7554,108,27488,22,290,False,Apache License 2.0
+252,27384,https://github.com/jesseduffield/lazygit.git,1081,Go,37622,246,1081,333,27384,21,3231,False,MIT License
+253,27324,https://github.com/psf/black.git,1742,Python,6159,219,1742,340,27324,29,1337,False,MIT License
+254,27243,https://github.com/pyenv/pyenv.git,2446,Roff,4330,381,2446,36,27243,4,2843,False,MIT License
+255,27304,https://github.com/tannerlinsley/react-query.git,1557,TypeScript,27581,175,1557,32,27304,12,1483,False,MIT License
+256,27086,https://github.com/mitmproxy/mitmproxy.git,3336,Python,53621,613,3336,246,27086,17,9862,False,MIT License
+257,26993,https://github.com/standard/standard.git,2221,JavaScript,3344,471,2221,80,26993,8,1931,False,MIT License
+258,27020,https://github.com/ReactiveX/rxjs.git,2791,TypeScript,122206,451,2791,243,27020,51,5010,False,Apache License 2.0
+259,26983,https://github.com/laravel/framework.git,9205,PHP,66463,1022,9205,10,26983,8,33674,False,MIT License
+260,27128,https://github.com/Dreamacro/clash.git,3821,Go,1467,464,3821,67,27128,5,751,False,GNU General Public License v3.0
+261,26943,https://github.com/amix/vimrc.git,6938,Vim script,21784,790,6938,29,26943,5,441,False,MIT License
+262,26869,https://github.com/symfony/symfony.git,8710,PHP,225760,1155,8710,705,26869,200,60467,False,MIT License
+263,26858,https://github.com/elsewhencode/project-guidelines.git,2966,JavaScript,482,623,2966,11,26858,2,168,False,MIT License
+264,26848,https://github.com/naptha/tesseract.js.git,1814,JavaScript,105160,479,1814,134,26848,22,627,False,Apache License 2.0
+265,26753,https://github.com/apolloconfig/apollo.git,9812,Java,50256,1288,9812,132,26753,4,2685,False,Apache License 2.0
+266,26690,https://github.com/airbnb/lottie-web.git,2667,JavaScript,359395,466,2667,824,26690,23,2257,False,MIT License
+267,26650,https://github.com/meilisearch/meilisearch.git,908,Rust,35345,233,908,67,26650,4,3506,False,MIT License
+268,26540,https://github.com/acmesh-official/acme.sh.git,3695,Shell,5510,489,3695,892,26540,160,4679,False,GNU General Public License v3.0
+269,26522,https://github.com/composer/composer.git,6318,PHP,22733,598,6318,134,26522,15,11604,False,MIT License
+270,26430,https://github.com/dbeaver/dbeaver.git,2456,Java,272396,493,2456,1452,26430,16,22594,False,Apache License 2.0
+271,26419,https://github.com/jashkenas/underscore.git,5631,JavaScript,6756,861,5631,46,26419,17,2797,False,MIT License
+272,26462,https://github.com/typicode/husky.git,937,JavaScript,3044,150,937,16,26462,3,838,False,MIT License
+273,26400,https://github.com/aria2/aria2.git,2980,C++,31213,715,2980,906,26400,38,5312,False,Other
+274,26369,https://github.com/raywenderlich/swift-algorithm-club.git,4745,Swift,14104,1563,4745,55,26369,27,2534,False,MIT License
+275,26346,https://github.com/webtorrent/webtorrent.git,2574,JavaScript,12209,713,2574,109,26346,9,3133,False,MIT License
+276,26271,https://github.com/ultralytics/yolov5.git,9350,Python,12402,290,9350,280,26271,15,2008,False,GNU General Public License v3.0
+277,26237,https://github.com/postcss/postcss.git,1493,TypeScript,9823,528,1493,13,26237,1,3725,False,MIT License
+278,26129,https://github.com/sequelize/sequelize.git,4017,JavaScript,35195,429,4017,801,26129,60,9350,False,MIT License
+279,26081,https://github.com/topjohnwu/Magisk.git,6511,C++,56197,1255,6511,32,26081,9,5739,False,GNU General Public License v3.0
+280,26032,https://github.com/layui/layui.git,7031,JavaScript,6098,995,7031,745,26032,111,349,False,MIT License
+281,25931,https://github.com/chakra-ui/chakra-ui.git,2287,TypeScript,110880,193,2287,91,25931,13,8019,False,MIT License
+282,25957,https://github.com/niklasvh/html2canvas.git,4379,TypeScript,117300,511,4379,774,25957,40,1066,False,MIT License
+283,25912,https://github.com/hankcs/HanLP.git,7016,Python,72398,1137,7016,4,25912,2,1653,False,Apache License 2.0
+284,25905,https://github.com/apache/airflow.git,10540,Python,166960,740,10540,957,25905,146,16127,False,Apache License 2.0
+285,25802,https://github.com/tabler/tabler.git,2944,HTML,76933,610,2944,62,25802,7,1946,False,MIT License
+286,25782,https://github.com/VincentGarreau/particles.js.git,4570,JavaScript,158,567,4570,338,25782,50,235,False,MIT License
+287,25704,https://github.com/JakeWharton/butterknife.git,4713,Java,3909,1075,4713,114,25704,18,1016,False,Apache License 2.0
+288,25623,https://github.com/xkcoding/spring-boot-demo.git,9057,Java,13868,987,9057,96,25623,27,733,False,MIT License
+289,25527,https://github.com/alibaba/druid.git,8119,Java,65855,1764,8119,2351,25527,142,6569,False,Apache License 2.0
+290,25473,https://github.com/request/request.git,3161,JavaScript,2290,441,3161,86,25473,27,2270,False,Apache License 2.0
+291,25370,https://github.com/angular/angular-cli.git,12151,TypeScript,98052,1054,12151,262,25370,23,9197,False,MIT License
+292,25442,https://github.com/danielgindi/Charts.git,5255,Swift,181683,606,5255,838,25442,84,1739,False,Apache License 2.0
+293,25314,https://github.com/geekcomputers/Python.git,10874,Python,31028,2485,10874,237,25314,80,2670,False,MIT License
+294,25302,https://github.com/github/fetch.git,3128,JavaScript,530,628,3128,25,25302,8,654,False,MIT License
+295,25298,https://github.com/select2/select2.git,6318,JavaScript,12552,739,6318,67,25298,15,2635,False,MIT License
+296,25228,https://github.com/transloadit/uppy.git,1685,JavaScript,359027,334,1685,115,25228,23,8771,False,MIT License
+297,25220,https://github.com/proxyee-down-org/proxyee-down.git,4593,Java,26860,976,4593,212,25220,1,474,False,Apache License 2.0
+298,25235,https://github.com/mobxjs/mobx.git,1678,TypeScript,18520,373,1678,21,25235,8,3123,False,MIT License
+299,25224,https://github.com/Modernizr/Modernizr.git,3046,JavaScript,20352,934,3046,186,25224,23,2600,False,MIT License
+300,25134,https://github.com/facebookresearch/Detectron.git,5451,Python,4483,966,5451,323,25134,22,141,False,Apache License 2.0
+301,25061,https://github.com/cheeriojs/cheerio.git,1538,TypeScript,7298,370,1538,10,25061,0,1952,False,MIT License
+302,24983,https://github.com/halfrost/LeetCode-Go.git,4618,Go,19051,584,4618,17,24983,6,1279,False,MIT License
+303,24933,https://github.com/codemirror/CodeMirror.git,4896,JavaScript,18454,651,4896,444,24933,25,7059,False,MIT License
+304,24841,https://github.com/SortableJS/Sortable.git,3481,JavaScript,2759,416,3481,365,24841,13,1078,False,MIT License
+305,24746,https://github.com/hashicorp/consul.git,4066,Go,378841,975,4066,1115,24746,159,17347,False,Mozilla Public License 2.0
+306,24731,https://github.com/microsoft/calculator.git,4461,C++,35518,568,4461,267,24731,9,729,False,MIT License
+307,24694,https://github.com/GitbookIO/gitbook.git,3677,JavaScript,8666,740,3677,1010,24694,63,2377,False,Apache License 2.0
+308,24649,https://github.com/nylas/nylas-mail.git,1466,JavaScript,87026,478,1466,1014,24649,29,6116,False,MIT License
+309,24625,https://github.com/pcottle/learnGitBranching.git,5266,JavaScript,33898,524,5266,13,24625,2,2665,False,MIT License
+310,24580,https://github.com/GoogleChrome/lighthouse.git,8565,JavaScript,135428,562,8565,593,24580,65,5237,False,Apache License 2.0
+311,24592,https://github.com/JedWatson/react-select.git,3902,TypeScript,18560,230,3902,230,24592,58,4068,False,MIT License
+312,24437,https://github.com/ccxt/ccxt.git,5999,JavaScript,1969403,926,5999,752,24437,189,53404,False,MIT License
+313,24416,https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers.git,7582,Jupyter Notebook,147548,1411,7582,189,24416,44,1094,False,MIT License
+314,24352,https://github.com/ianstormtaylor/slate.git,2752,TypeScript,19526,306,2752,499,24352,20,3853,False,MIT License
+315,24279,https://github.com/Automattic/mongoose.git,3463,JavaScript,84379,492,3463,321,24279,15,16273,False,MIT License
+316,24313,https://github.com/parallax/jsPDF.git,4296,JavaScript,106341,483,4296,119,24313,13,2266,False,MIT License
+317,24231,https://github.com/rstacruz/nprogress.git,1833,JavaScript,722,416,1833,127,24231,34,209,False,MIT License
+318,24220,https://github.com/nektos/act.git,636,Go,5900,106,636,76,24220,15,604,False,MIT License
+319,24184,https://github.com/YMFE/yapi.git,4279,JavaScript,232001,517,4279,1442,24184,46,5801,False,Apache License 2.0
+320,24306,https://github.com/rust-lang/rustlings.git,3892,Rust,1393,278,3892,110,24306,36,1132,False,MIT License
+321,24102,https://github.com/johnpapa/angular-styleguide.git,4312,None,4140,1373,4312,80,24102,17,1136,False,MIT License
+322,24098,https://github.com/hashicorp/vault.git,3350,Go,201048,802,3350,1186,24098,327,15136,False,Mozilla Public License 2.0
+323,24091,https://github.com/Binaryify/NeteaseCloudMusicApi.git,8427,JavaScript,15104,355,8427,107,24091,12,1178,False,MIT License
+324,23963,https://github.com/remy/nodemon.git,1590,JavaScript,2370,267,1590,50,23963,8,1231,False,MIT License
+325,23941,https://github.com/greenrobot/EventBus.git,4657,Java,1734,1081,4657,144,23941,40,549,False,Apache License 2.0
+326,23965,https://github.com/ycm-core/YouCompleteMe.git,2763,Python,37490,577,2763,11,23965,4,2918,False,GNU General Public License v3.0
+327,23920,https://github.com/kubernetes/minikube.git,4105,Go,195394,480,4105,673,23920,57,18908,False,Apache License 2.0
+328,23898,https://github.com/nagadomi/waifu2x.git,2574,Lua,709480,748,2574,140,23898,3,746,False,MIT License
+329,23770,https://github.com/hashicorp/vagrant.git,4258,Ruby,73199,746,4258,700,23770,95,14137,False,MIT License
+330,23703,https://github.com/ClickHouse/ClickHouse.git,4735,C++,721606,673,4735,2247,23703,230,88815,False,Apache License 2.0
+331,23718,https://github.com/yunjey/pytorch-tutorial.git,7226,Python,13110,615,7226,85,23718,22,173,False,MIT License
+332,23730,https://github.com/OAI/OpenAPI-Specification.git,8279,JavaScript,3336,865,8279,500,23730,30,1934,False,Apache License 2.0
+333,23612,https://github.com/akveo/ngx-admin.git,7561,TypeScript,66880,902,7561,451,23612,64,539,False,MIT License
+334,23609,https://github.com/facebookresearch/fastText.git,4466,HTML,8461,856,4466,497,23609,81,381,False,MIT License
+335,23616,https://github.com/bvaughn/react-virtualized.git,2979,JavaScript,48200,251,2979,463,23616,59,1986,False,MIT License
+336,23557,https://github.com/scwang90/SmartRefreshLayout.git,4829,Java,273235,521,4829,237,23557,4,1093,False,Apache License 2.0
+337,23523,https://github.com/cmderdev/cmder.git,1943,C++,2748,574,1943,8,23523,1,1359,False,MIT License
+338,23477,https://github.com/influxdata/influxdb.git,3176,Go,163963,748,3176,1490,23477,59,35113,False,MIT License
+339,23377,https://github.com/SeleniumHQ/selenium.git,6930,Java,1947979,1314,6930,110,23377,25,28235,False,Apache License 2.0
+340,23340,https://github.com/google-research/google-research.git,5678,Jupyter Notebook,343171,701,5678,662,23340,140,3187,False,Apache License 2.0
+341,23148,https://github.com/firstcontributions/first-contributions.git,44558,None,86037,461,44558,1880,23148,1837,41000,False,MIT License
+342,23102,https://github.com/pmndrs/react-spring.git,1012,TypeScript,474553,198,1012,55,23102,4,3255,False,MIT License
+343,23038,https://github.com/go-kit/kit.git,2308,Go,7392,690,2308,43,23038,8,1520,False,MIT License
+344,23018,https://github.com/VundleVim/Vundle.vim.git,2556,Vim script,935,710,2556,206,23018,47,629,False,MIT License
+345,23013,https://github.com/hammerjs/hammer.js.git,2664,JavaScript,10221,542,2664,310,23013,36,1199,False,MIT License
+346,22985,https://github.com/cfenollosa/os-tutorial.git,2871,C,154,824,2871,102,22985,45,147,False,"BSD 3-Clause ""New"" or ""Revised"" License"
+347,22959,https://github.com/alibaba/canal.git,6753,Java,18743,1207,6753,829,22959,41,1495,False,Apache License 2.0
+348,22952,https://github.com/pypa/pipenv.git,1742,Python,246920,367,1742,448,22952,28,7425,False,MIT License
+349,22999,https://github.com/dokku/dokku.git,1740,Shell,12391,365,1740,50,22999,2,7707,False,MIT License
+350,22931,https://github.com/balena-io/etcher.git,1658,TypeScript,92371,434,1658,368,22931,5,2985,False,Apache License 2.0
+351,22836,https://github.com/mbeaudru/modern-js-cheatsheet.git,2529,None,333,631,2529,8,22836,0,160,False,MIT License
+352,22840,https://github.com/CymChad/BaseRecyclerViewAdapterHelper.git,4889,Java,64860,570,4889,487,22840,15,1210,False,MIT License
+353,22815,https://github.com/immerjs/immer.git,731,JavaScript,4927,160,731,38,22815,18,1251,False,MIT License
+354,22694,https://github.com/airbnb/lottie-ios.git,3339,Swift,91742,479,3339,296,22694,2,1023,False,Apache License 2.0
+355,22689,https://github.com/angular/components.git,6138,TypeScript,85598,950,6138,1823,22689,131,9664,False,MIT License
+356,22703,https://github.com/sickcodes/Docker-OSX.git,1083,Shell,13534,307,1083,170,22703,5,423,False,GNU General Public License v3.0
+357,22669,https://github.com/jesseduffield/lazydocker.git,854,Go,25325,222,854,82,22669,5,615,False,MIT License
+358,22691,https://github.com/tj/commander.js.git,1621,JavaScript,2710,239,1621,4,22691,1,1146,False,MIT License
+359,22613,https://github.com/dmlc/xgboost.git,8380,C++,22711,932,8380,278,22613,41,5780,False,Apache License 2.0
+360,22606,https://github.com/doczjs/docz.git,1454,TypeScript,10173,180,1454,117,22606,10,1605,False,MIT License
+361,22563,https://github.com/facebook/rocksdb.git,5170,C++,182769,1001,5170,685,22563,263,11023,False,Other
+362,22456,https://github.com/alibaba/nacos.git,9828,Java,44996,877,9828,603,22456,35,4066,False,Apache License 2.0
+363,22420,https://github.com/heartcombo/devise.git,5403,Ruby,5543,477,5403,202,22420,62,3778,False,MIT License
+364,22389,https://github.com/signalapp/Signal-Android.git,5449,Java,600254,919,5449,284,22389,27,9865,False,GNU General Public License v3.0
+365,22399,https://github.com/vuejs/devtools.git,3809,TypeScript,14054,508,3809,403,22399,28,1997,False,MIT License
+366,22364,https://github.com/vercel/swr.git,851,TypeScript,2918,178,851,81,22364,12,627,False,MIT License
+367,22346,https://github.com/react-native-elements/react-native-elements.git,4421,TypeScript,118621,380,4421,36,22346,6,2309,False,MIT License
+368,22332,https://github.com/alibaba/spring-cloud-alibaba.git,6938,Java,7325,980,6938,387,22332,21,1916,False,Apache License 2.0
+369,22321,https://github.com/halo-dev/halo.git,7547,Java,45375,457,7547,124,22321,6,2148,False,GNU General Public License v3.0
+370,22320,https://github.com/kataras/iris.git,2392,Go,14831,703,2392,73,22320,0,2403,False,"BSD 3-Clause ""New"" or ""Revised"" License"
+371,22269,https://github.com/fastai/fastai.git,7231,Jupyter Notebook,777928,624,7231,110,22269,12,2261,False,Apache License 2.0
+372,22254,https://github.com/files-community/Files.git,1292,C#,127970,329,1292,771,22254,16,3491,False,MIT License
+373,22265,https://github.com/lovell/sharp.git,1118,JavaScript,47222,227,1118,102,22265,1,1627,False,Apache License 2.0
+374,22235,https://github.com/balderdashy/sails.git,1959,JavaScript,13131,661,1959,531,22235,70,7146,False,MIT License
+375,22189,https://github.com/emberjs/ember.js.git,4286,JavaScript,74228,900,4286,426,22189,73,21438,False,MIT License
+376,22115,https://github.com/seata/seata.git,7727,Java,11472,875,7727,700,22115,113,1462,False,Apache License 2.0
+377,22109,https://github.com/reduxjs/react-redux.git,3228,TypeScript,7177,426,3228,21,22109,4,1098,False,MIT License
+378,22072,https://github.com/swc-project/swc.git,704,Rust,146908,141,704,250,22072,16,4085,False,Apache License 2.0
+379,22041,https://github.com/swagger-api/swagger-ui.git,8316,JavaScript,416619,658,8316,767,22041,47,5412,False,Apache License 2.0
+380,21998,https://github.com/t4t5/sweetalert.git,2908,TypeScript,4208,462,2908,181,21998,29,363,False,MIT License
+381,21976,https://github.com/ramda/ramda.git,1412,JavaScript,8131,274,1412,126,21976,19,2980,False,MIT License
+382,21939,https://github.com/apache/kafka.git,11483,Java,141098,1076,11483,965,21939,965,10016,False,Other
+383,22013,https://github.com/sampotts/plyr.git,2639,JavaScript,65455,413,2639,747,22013,25,2248,False,MIT License
+384,21864,https://github.com/facebook/folly.git,4630,C++,41227,1030,4630,383,21864,71,10736,False,Apache License 2.0
+385,21826,https://github.com/guzzle/guzzle.git,2299,PHP,9823,463,2299,30,21826,10,3603,False,MIT License
+386,21835,https://github.com/dimsemenov/PhotoSwipe.git,3288,JavaScript,29975,552,3288,569,21835,0,593,False,MIT License
+387,21953,https://github.com/zsh-users/zsh-autosuggestions.git,1408,Shell,573,173,1408,119,21953,22,530,False,MIT License
+388,21808,https://github.com/PaddlePaddle/PaddleOCR.git,4470,Python,326748,360,4470,1126,21808,87,4909,False,Apache License 2.0
+389,21849,https://github.com/android/architecture-components-samples.git,8038,Kotlin,21430,887,8038,174,21849,39,602,False,Apache License 2.0
+390,21779,https://github.com/veggiemonk/awesome-docker.git,2584,None,14426,756,2584,1,21779,1,2835,False,Apache License 2.0
+391,21735,https://github.com/facebook/flow.git,1842,OCaml,96241,404,1842,2486,21735,112,13585,False,MIT License
+392,21784,https://github.com/github/hub.git,2310,Go,7275,534,2310,264,21784,42,3327,False,MIT License
+393,21723,https://github.com/Wox-launcher/Wox.git,2322,C#,98055,541,2322,857,21723,11,2749,False,MIT License
+394,21716,https://github.com/vapor/vapor.git,1343,Swift,16097,526,1343,99,21716,17,5604,False,MIT License
+395,21723,https://github.com/helm/helm.git,6199,Go,18715,525,6199,484,21723,206,6618,False,Apache License 2.0
+396,21638,https://github.com/appwrite/appwrite.git,1687,JavaScript,169390,305,1687,323,21638,56,10554,False,"BSD 3-Clause ""New"" or ""Revised"" License"
+397,21557,https://github.com/openfaas/faas.git,1764,Go,27570,493,1764,34,21557,5,2046,False,MIT License
+398,21653,https://github.com/feathericons/feather.git,1083,JavaScript,16426,268,1083,462,21653,112,639,False,MIT License
+399,21420,https://github.com/ehang-io/nps.git,3921,Go,9189,427,3921,315,21420,9,700,False,GNU General Public License v3.0
+400,21390,https://github.com/floating-ui/floating-ui.git,1354,TypeScript,19317,253,1354,22,21390,4,1290,False,MIT License
+401,21362,https://github.com/mochajs/mocha.git,2945,JavaScript,20866,390,2945,265,21362,36,3582,False,MIT License
+402,21316,https://github.com/SwiftyJSON/SwiftyJSON.git,3318,Swift,1112,633,3318,133,21316,22,739,False,MIT License
+403,21203,https://github.com/quasarframework/quasar.git,2783,JavaScript,147251,472,2783,441,21203,118,11960,False,MIT License
+404,21187,https://github.com/kriasoft/react-starter-kit.git,4110,TypeScript,8778,553,4110,9,21187,3,5,False,MIT License
+405,21171,https://github.com/bevacqua/dragula.git,1975,JavaScript,1942,368,1975,153,21171,52,366,False,MIT License
+406,21140,https://github.com/httpie/httpie.git,3671,Python,6766,62,3671,103,21140,5,1717,False,"BSD 3-Clause ""New"" or ""Revised"" License"
+407,21091,https://github.com/vercel/pkg.git,900,JavaScript,41164,272,900,56,21091,7,1107,False,MIT License
+408,21100,https://github.com/bilibili/flv.js.git,3276,JavaScript,1511,623,3276,393,21100,12,431,False,Apache License 2.0
+409,21063,https://github.com/eriklindernoren/ML-From-Scratch.git,4146,Python,553,955,4146,45,21063,16,374,False,MIT License
+410,21107,https://github.com/coreybutler/nvm-windows.git,2235,Go,5338,382,2235,85,21107,15,348,False,MIT License
+411,21047,https://github.com/getredash/redash.git,3680,Python,27682,584,3680,712,21047,233,7277,False,"BSD 2-Clause ""Simplified"" License"
+412,21114,https://github.com/servo/servo.git,2630,None,1158427,504,2630,3470,21114,80,44608,False,Mozilla Public License 2.0
+413,20949,https://github.com/conwnet/github1s.git,720,TypeScript,15038,108,720,57,20949,2,299,False,MIT License
+414,20922,https://github.com/Kong/insomnia.git,1248,JavaScript,95460,224,1248,600,20922,53,3463,False,MIT License
+415,20907,https://github.com/google/gson.git,4037,Java,11142,748,4037,634,20907,151,1657,False,Apache License 2.0
+416,20891,https://github.com/haizlin/fe-interview.git,2907,JavaScript,5786,657,2907,5001,20891,3,1313,False,MIT License
+417,20867,https://github.com/paularmstrong/normalizr.git,870,JavaScript,2471,202,870,22,20867,0,455,False,MIT License
+418,20900,https://github.com/facebookresearch/detectron2.git,5688,Python,5917,343,5688,214,20900,37,1352,False,Apache License 2.0
+419,20845,https://github.com/chenglou/react-motion.git,1173,JavaScript,5015,283,1173,188,20845,42,809,False,MIT License
+420,20844,https://github.com/wangzheng0822/algo.git,6709,Python,1173,850,6709,148,20844,49,1065,False,Apache License 2.0
+421,20793,https://github.com/keon/algorithms.git,4284,Python,1416,633,4284,198,20793,138,942,False,MIT License
+422,20761,https://github.com/StevenBlack/hosts.git,1816,Python,425556,575,1816,25,20761,0,2945,False,MIT License
+423,20739,https://github.com/ApolloAuto/apollo.git,8428,C++,2603352,1108,8428,1181,20739,70,18076,False,Apache License 2.0
+424,20705,https://github.com/react-bootstrap/react-bootstrap.git,3329,TypeScript,29050,434,3329,164,20705,28,4341,False,MIT License
+425,20709,https://github.com/ipfs/ipfs.git,1391,None,2336,1025,1391,6,20709,2,396,False,MIT License
+426,20654,https://github.com/docsifyjs/docsify.git,4988,JavaScript,22812,258,4988,200,20654,47,1609,False,MIT License
+427,20601,https://github.com/qishibo/AnotherRedisDesktopManager.git,1996,JavaScript,4346,221,1996,110,20601,11,665,False,MIT License
+428,20569,https://github.com/eslint/eslint.git,3678,JavaScript,33596,308,3678,107,20569,10,8421,False,MIT License
+429,20605,https://github.com/dotnet-architecture/eShopOnContainers.git,8803,C#,655615,1503,8803,39,20605,14,3994,False,MIT License
+430,20656,https://github.com/ageron/handson-ml2.git,10212,Jupyter Notebook,151278,584,10212,162,20656,3,908,False,Apache License 2.0
+431,20685,https://github.com/alpinejs/alpine.git,918,HTML,6560,207,918,20,20685,12,1722,False,MIT License
+432,20512,https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way.git,4749,JavaScript,381,424,4749,5,20512,0,319,False,MIT License
+433,20511,https://github.com/ColorlibHQ/gentelella.git,6844,HTML,35068,1107,6844,48,20511,18,449,False,MIT License
+434,20485,https://github.com/DesignPatternsPHP/DesignPatternsPHP.git,4414,PHP,6095,1240,4414,0,20485,0,1247,False,MIT License
+435,20479,https://github.com/sirupsen/logrus.git,2131,Go,998,315,2131,72,20479,66,1218,False,MIT License
+436,20444,https://github.com/ray-project/ray.git,3553,Python,178051,425,3553,2354,20444,288,12524,False,Apache License 2.0
+437,20442,https://github.com/numpy/numpy.git,6880,Python,108181,564,6880,2269,20442,234,29610,False,"BSD 3-Clause ""New"" or ""Revised"" License"
+438,20431,https://github.com/localForage/localForage.git,1189,JavaScript,4861,314,1189,228,20431,37,1122,False,Apache License 2.0
+439,20424,https://github.com/slidevjs/slidev.git,747,TypeScript,27208,121,747,87,20424,6,1120,False,MIT License
+440,20394,https://github.com/Meituan-Dianping/mpvue.git,2121,JavaScript,8393,606,2121,471,20394,48,2328,False,MIT License
+441,20337,https://github.com/postcss/autoprefixer.git,1255,JavaScript,7949,385,1255,32,20337,0,2575,False,MIT License
+442,20326,https://github.com/vuejs/vuepress.git,4466,JavaScript,15498,269,4466,548,20326,103,2123,False,MIT License
+443,20209,https://github.com/elixir-lang/elixir.git,2889,Elixir,54243,682,2889,29,20209,3,18368,False,Apache License 2.0
+444,20332,https://github.com/sebastianruder/NLP-progress.git,3443,Python,1532,1265,3443,37,20332,7,778,False,MIT License
+445,20191,https://github.com/yuzu-emu/yuzu.git,1694,C++,73374,513,1694,1043,20191,47,21402,False,GNU General Public License v3.0
+446,20150,https://github.com/jaredhanson/passport.git,1171,JavaScript,519,324,1171,334,20150,32,560,False,MIT License
+447,20150,https://github.com/nefe/You-Dont-Need-jQuery.git,1826,JavaScript,707,537,1826,1,20150,0,619,False,MIT License
+448,20195,https://github.com/michalsnik/aos.git,2203,JavaScript,1636,311,2203,291,20195,23,259,False,MIT License
+449,20098,https://github.com/goldfire/howler.js.git,2069,JavaScript,32182,361,2069,313,20098,37,886,False,MIT License
+450,20049,https://github.com/petkaantonov/bluebird.git,2425,JavaScript,15219,351,2425,114,20049,48,2109,False,MIT License
+451,20034,https://github.com/gofiber/fiber.git,1019,Go,95653,252,1019,31,20034,7,3198,False,MIT License
+452,20034,https://github.com/JohnCoates/Aerial.git,1031,Swift,19038,382,1031,51,20034,1,1304,False,MIT License
+453,19980,https://github.com/apache/incubator-mxnet.git,6903,C++,98777,1098,6903,1989,19980,216,11833,False,Apache License 2.0
+454,19962,https://github.com/statelyai/xstate.git,944,TypeScript,95457,184,944,259,19962,109,4788,False,MIT License
+455,19944,https://github.com/necolas/react-native-web.git,1685,JavaScript,51364,341,1685,107,19944,29,1789,False,MIT License
+456,19944,https://github.com/BradLarson/GPUImage.git,4624,Objective-C,44862,748,4624,992,19944,90,1082,False,"BSD 3-Clause ""New"" or ""Revised"" License"
+457,19981,https://github.com/k3s-io/k3s.git,1770,Go,573842,271,1770,407,19981,18,2302,False,Apache License 2.0
+458,19934,https://github.com/highlightjs/highlight.js.git,3332,JavaScript,14315,300,3332,60,19934,7,6415,False,"BSD 3-Clause ""New"" or ""Revised"" License"
+459,19980,https://github.com/homebridge/homebridge.git,1896,TypeScript,3162,670,1896,22,19980,3,1429,False,Apache License 2.0
+460,19890,https://github.com/AMAI-GmbH/AI-Expert-Roadmap.git,1782,JavaScript,628,774,1782,9,19890,0,67,False,MIT License
+461,19890,https://github.com/TheAlgorithms/JavaScript.git,3487,JavaScript,2108,562,3487,1,19890,0,1592,False,GNU General Public License v3.0
+462,19865,https://github.com/enzymejs/enzyme.git,2101,JavaScript,7733,269,2101,288,19865,32,1973,False,MIT License
+463,19891,https://github.com/DrKLO/Telegram.git,6867,Java,343644,1164,6867,493,19891,219,447,False,GNU General Public License v2.0
+464,19833,https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System.git,3380,C,5986,1590,3380,84,19833,40,243,False,Apache License 2.0
+465,19805,https://github.com/DIYgod/RSSHub.git,4072,JavaScript,79764,317,4072,326,19805,21,7429,False,MIT License
+466,19806,https://github.com/FredKSchott/snowpack.git,1001,JavaScript,82167,152,1001,392,19806,52,3441,False,MIT License
+467,19791,https://github.com/avajs/ava.git,1430,JavaScript,12821,231,1430,82,19791,5,1912,False,MIT License
+468,19732,https://github.com/python-poetry/poetry.git,1627,Python,13714,177,1627,1228,19732,170,2201,False,MIT License
+469,19692,https://github.com/open-mmlab/mmdetection.git,7217,Python,38453,354,7217,542,19692,70,2056,False,Apache License 2.0
+470,19683,https://github.com/marmelab/react-admin.git,4356,TypeScript,196897,266,4356,142,19683,27,13778,False,MIT License
+471,19655,https://github.com/Seldaek/monolog.git,1812,PHP,3822,315,1812,27,19655,7,2606,False,MIT License
+472,19632,https://github.com/ReactiveX/RxAndroid.git,3006,Java,970,1021,3006,2,19632,0,518,False,Apache License 2.0
+473,19632,https://github.com/ShareX/ShareX.git,2520,C#,59581,510,2520,350,19632,6,7189,False,GNU General Public License v3.0
+474,19618,https://github.com/judasn/IntelliJ-IDEA-Tutorial.git,7331,None,151080,1787,7331,0,19618,0,472,False,GNU General Public License v2.0
+475,19607,https://github.com/youzan/vant.git,9311,TypeScript,201072,372,9311,28,19607,4,8744,False,MIT License
+476,19654,https://github.com/gfwlist/gfwlist.git,3843,None,76599,751,3843,388,19654,1,3574,False,GNU Lesser General Public License v2.1
+477,19667,https://github.com/eugeneyan/applied-ml.git,2762,None,310,834,2762,2,19667,0,413,False,MIT License
+478,19564,https://github.com/tipsy/profile-summary-for-github.git,485,Vue,3263,108,485,16,19564,3,222,False,Apache License 2.0
+479,19560,https://github.com/envoyproxy/envoy.git,3685,C++,147098,607,3685,1263,19560,98,11319,False,Apache License 2.0
+480,19559,https://github.com/electron-react-boilerplate/electron-react-boilerplate.git,3288,TypeScript,15977,286,3288,27,19559,4,1067,False,MIT License
+481,19547,https://github.com/validatorjs/validator.js.git,1923,JavaScript,5162,226,1923,245,19547,111,2055,False,MIT License
+482,19519,https://github.com/jhipster/generator-jhipster.git,3823,JavaScript,114350,754,3823,189,19519,20,38122,False,Apache License 2.0
+483,19532,https://github.com/mozilla/DeepSpeech.git,3487,C++,50672,656,3487,120,19532,14,3466,False,Mozilla Public License 2.0
+484,19523,https://github.com/deezer/spleeter.git,2159,Python,9483,366,2159,146,19523,8,481,False,MIT License
+485,19501,https://github.com/schollz/croc.git,862,Go,24506,233,862,81,19501,6,1656,False,MIT License
+486,19466,https://github.com/zhaoolee/ChromeAppHeroes.git,2184,JavaScript,784498,633,2184,23,19466,9,788,False,GNU General Public License v3.0
+487,19584,https://github.com/tsenart/vegeta.git,1215,Go,1748,320,1215,94,19584,17,668,False,MIT License
+488,19427,https://github.com/SerenityOS/serenity.git,2131,C++,137769,316,2131,601,19427,85,38034,False,"BSD 2-Clause ""Simplified"" License"
+489,19412,https://github.com/railsware/upterm.git,660,TypeScript,7811,404,660,220,19412,1,2998,False,MIT License
+490,19429,https://github.com/js-cookie/js-cookie.git,2042,JavaScript,695,343,2042,1,19429,0,827,False,MIT License
+491,19349,https://github.com/apache/skywalking.git,5688,Java,163581,839,5688,61,19349,1,7091,False,Apache License 2.0
+492,19358,https://github.com/xi-editor/xi-editor.git,709,Rust,9456,426,709,145,19358,14,2099,False,Apache License 2.0
+493,19270,https://github.com/trekhleb/homemade-machine-learning.git,3610,Jupyter Notebook,14826,939,3610,21,19270,12,246,False,MIT License
+494,19313,https://github.com/google/ExoPlayer.git,5657,Java,174482,858,5657,620,19313,29,12941,False,Apache License 2.0
+495,19249,https://github.com/afollestad/material-dialogs.git,3148,Kotlin,265793,560,3148,110,19249,11,2020,False,Apache License 2.0
+496,19207,https://github.com/TeamNewPipe/NewPipe.git,2289,Java,60745,541,2289,1069,19207,37,9953,False,GNU General Public License v3.0
+497,19205,https://github.com/nushell/nushell.git,911,Rust,27636,161,911,343,19205,9,5488,False,MIT License
+498,19185,https://github.com/Homebrew/homebrew-cask.git,9845,Ruby,312047,309,9845,35,19185,14,149601,False,"BSD 2-Clause ""Simplified"" License"
+499,19233,https://github.com/benweet/stackedit.git,2620,JavaScript,37337,523,2620,655,19233,16,313,False,Apache License 2.0
+500,19158,https://github.com/rancher/rancher.git,2572,Go,129270,646,2572,2310,19158,174,8744,False,Apache License 2.0
+501,19118,https://github.com/drduh/macOS-Security-and-Privacy-Guide.git,1376,Python,1785,756,1376,14,19118,2,576,False,MIT License
+502,19061,https://github.com/MustangYM/WeChatExtension-ForMac.git,3280,Objective-C,192890,282,3280,790,19061,0,1040,False,MIT License
+503,19050,https://github.com/taichi-dev/taichi.git,1970,C++,45556,379,1970,467,19050,39,8715,False,Apache License 2.0
+504,19054,https://github.com/verekia/js-stack-from-scratch.git,1934,JavaScript,1807,584,1934,49,19054,10,568,False,MIT License
+505,19071,https://github.com/alibaba/Sentinel.git,6862,Java,7416,774,6862,530,19071,137,749,False,Apache License 2.0
+506,18971,https://github.com/redisson/redisson.git,4637,Java,20171,888,4637,306,18971,29,7260,False,Apache License 2.0
+507,18969,https://github.com/streamlit/streamlit.git,1714,Python,136956,265,1714,589,18969,11,4701,False,Apache License 2.0
+508,18962,https://github.com/codex-team/editor.js.git,1478,TypeScript,16391,215,1478,395,18962,49,645,False,Apache License 2.0
+509,18929,https://github.com/palantir/blueprint.git,2003,TypeScript,113967,454,2003,655,18929,22,2414,False,Apache License 2.0
+510,18909,https://github.com/apache/flink.git,10734,Java,447141,929,10734,899,18909,898,30854,False,Apache License 2.0
+511,18873,https://github.com/locustio/locust.git,2439,Python,6602,429,2439,21,18873,2,3526,False,MIT License
+512,18872,https://github.com/jenkinsci/jenkins.git,7420,Java,140694,871,7420,32,18872,31,32377,False,MIT License
+513,18858,https://github.com/norvig/pytudes.git,2204,Jupyter Notebook,47218,701,2204,21,18858,5,757,False,MIT License
+514,19127,https://github.com/tmrts/go-patterns.git,1790,Go,927,626,1790,60,19127,46,72,False,Apache License 2.0
+515,18842,https://github.com/winstonjs/winston.git,1663,JavaScript,3789,221,1663,433,18842,43,1459,False,MIT License
+516,18795,https://github.com/vuejs/vue-router.git,5172,JavaScript,11543,536,5172,115,18795,51,1376,False,MIT License
+517,18805,https://github.com/tobiasahlin/SpinKit.git,1846,CSS,265,447,1846,10,18805,5,262,False,MIT License
+518,18778,https://github.com/MLEveryday/100-Days-Of-ML-Code.git,5148,Jupyter Notebook,44918,1101,5148,10,18778,1,323,False,MIT License
+519,18759,https://github.com/jorgebucaran/hyperapp.git,833,JavaScript,7051,317,833,8,18759,3,1387,False,MIT License
+520,18748,https://github.com/graphql/graphql-js.git,1996,TypeScript,19301,400,1996,200,18748,60,3187,False,MIT License
+521,18735,https://github.com/ftlabs/fastclick.git,3322,HTML,322,504,3322,280,18735,68,408,False,MIT License
+522,18691,https://github.com/PostgREST/postgrest.git,871,Haskell,5518,351,871,166,18691,15,2129,False,MIT License
+523,18688,https://github.com/rome/tools.git,567,Rust,121016,198,567,118,18688,17,3056,False,MIT License
+524,18684,https://github.com/lutzroeder/netron.git,2160,JavaScript,38246,263,2160,18,18684,1,5513,False,MIT License
+525,18648,https://github.com/bazelbuild/bazel.git,3417,Java,856625,601,3417,2510,18648,170,32632,False,Apache License 2.0
+526,18667,https://github.com/academic/awesome-datascience.git,5058,None,1138,1428,5058,2,18667,0,846,False,MIT License
+527,18610,https://github.com/jaywcjlove/linux-command.git,4191,Markdown,1100596,505,4191,44,18610,3,908,False,MIT License
+528,18601,https://github.com/dhg/Skeleton.git,3132,CSS,6398,504,3132,140,18601,66,167,False,MIT License
+529,18605,https://github.com/reduxjs/reselect.git,681,TypeScript,4061,165,681,23,18605,6,705,False,MIT License
+530,18561,https://github.com/Prinzhorn/skrollr.git,3569,HTML,1659,725,3569,262,18561,19,606,False,MIT License
+531,18528,https://github.com/python-telegram-bot/python-telegram-bot.git,4067,Python,10440,599,4067,36,18528,10,2353,False,Other
+532,18494,https://github.com/jumpserver/jumpserver.git,4610,Python,65249,650,4610,178,18494,13,7193,False,GNU General Public License v3.0
+533,18503,https://github.com/dracula/dracula-theme.git,1896,None,1224,186,1896,62,18503,0,503,False,MIT License
+534,18476,https://github.com/google/web-starter-kit.git,3157,HTML,10452,954,3157,87,18476,37,720,False,Apache License 2.0
+535,18484,https://github.com/rwightman/pytorch-image-models.git,3066,Python,20449,274,3066,66,18484,16,1378,False,Apache License 2.0
+536,18458,https://github.com/SnapKit/SnapKit.git,1869,Swift,2869,393,1869,86,18458,10,527,False,MIT License
+537,18432,https://github.com/vnpy/vnpy.git,7263,Python,253733,1346,7263,8,18432,0,6435,False,MIT License
+538,18460,https://github.com/go-delve/delve.git,1876,Go,29972,374,1876,122,18460,14,2251,False,MIT License
+539,18407,https://github.com/PyTorchLightning/pytorch-lightning.git,2351,Python,101972,220,2351,483,18407,100,6960,False,Apache License 2.0
+540,18401,https://github.com/openssl/openssl.git,8033,C,257537,937,8033,1715,18401,239,31215,False,Apache License 2.0
+541,18380,https://github.com/pytorch/examples.git,8625,Python,41293,390,8625,169,18380,31,650,False,"BSD 3-Clause ""New"" or ""Revised"" License"
+542,18358,https://github.com/mingrammer/diagrams.git,1100,Python,32655,297,1100,279,18358,76,446,False,MIT License
+543,18500,https://github.com/chalk/chalk.git,754,JavaScript,806,136,754,0,18500,0,332,False,MIT License
+544,18316,https://github.com/pbatard/rufus.git,1930,C,28504,513,1930,11,18316,0,1890,False,GNU General Public License v3.0
+545,18402,https://github.com/vadimdemedes/ink.git,500,TypeScript,1587,104,500,79,18402,16,505,False,MIT License
+546,18275,https://github.com/square/picasso.git,4036,Kotlin,4841,872,4036,202,18275,20,1510,False,Apache License 2.0
+547,18262,https://github.com/urfave/cli.git,1562,Go,6668,305,1562,171,18262,31,2106,False,MIT License
+548,18211,https://github.com/jcjohnson/neural-style.git,2785,Lua,48191,646,2785,321,18211,27,169,False,MIT License
+549,18297,https://github.com/nostalgic-css/NES.css.git,1529,SCSS,4356,195,1529,62,18297,27,827,False,MIT License
+550,18223,https://github.com/Baseflow/PhotoView.git,3895,Java,16896,651,3895,196,18223,15,462,False,Apache License 2.0
+551,18195,https://github.com/bcit-ci/CodeIgniter.git,7779,PHP,54937,1582,7779,23,18195,9,10323,False,MIT License
+552,18217,https://github.com/recharts/recharts.git,1375,TypeScript,8429,185,1375,369,18217,9,1908,False,MIT License
+553,18186,https://github.com/SpaceVim/SpaceVim.git,1414,Vim script,35639,311,1414,48,18186,19,5703,False,GNU General Public License v3.0
+554,18181,https://github.com/PaddlePaddle/Paddle.git,4505,C++,242257,728,4505,2891,18181,815,35715,False,Apache License 2.0
+555,18191,https://github.com/wenyan-lang/wenyan.git,1072,TypeScript,45580,252,1072,181,18191,6,914,False,MIT License
+556,18168,https://github.com/websockets/ws.git,2182,JavaScript,11112,388,2182,5,18168,0,1790,False,MIT License
+557,18068,https://github.com/jitsi/jitsi-meet.git,5758,JavaScript,227390,507,5758,215,18068,42,10128,False,Apache License 2.0
+558,18125,https://github.com/elunez/eladmin.git,6660,Java,6918,544,6660,29,18125,5,478,False,Apache License 2.0
+559,18033,https://github.com/OpenZeppelin/openzeppelin-contracts.git,9160,JavaScript,20004,612,9160,143,18033,35,2781,False,MIT License
+560,18076,https://github.com/firecracker-microvm/firecracker.git,1272,Rust,21212,347,1272,133,18076,8,3453,False,Apache License 2.0
+561,18022,https://github.com/lyswhut/lx-music-desktop.git,3268,JavaScript,9971,282,3268,113,18022,1,1562,False,Apache License 2.0
+562,18020,https://github.com/SnapKit/Masonry.git,3180,Objective-C,767,731,3180,143,18020,20,406,False,MIT License
+563,18025,https://github.com/FelisCatus/SwitchyOmega.git,2910,CoffeeScript,2157,830,2910,577,18025,11,609,False,GNU General Public License v3.0
+564,17988,https://github.com/wekan/wekan.git,2727,JavaScript,44499,585,2727,749,17988,1,9067,False,MIT License
+565,17956,https://github.com/appsmithorg/appsmith.git,1458,TypeScript,245976,193,1458,2185,17956,109,9900,False,Apache License 2.0
+566,17935,https://github.com/phoenixframework/phoenix.git,2430,Elixir,16028,597,2430,35,17935,17,7230,False,MIT License
+567,17935,https://github.com/pmndrs/react-three-fiber.git,998,TypeScript,22675,184,998,27,17935,4,2062,False,MIT License
+568,17928,https://github.com/nuysoft/Mock.git,2620,JavaScript,5409,433,2620,315,17928,29,230,False,Other
+569,17910,https://github.com/dennybritz/reinforcement-learning.git,5710,Jupyter Notebook,5373,873,5710,107,17910,19,259,False,MIT License
+570,17912,https://github.com/eggjs/egg.git,1742,JavaScript,60674,477,1742,259,17912,3,995,False,MIT License
+571,17896,https://github.com/withfig/autocomplete.git,4089,TypeScript,20825,70,4089,156,17896,27,3125,False,MIT License
+572,17863,https://github.com/iawia002/lux.git,2167,Go,2312,333,2167,355,17863,6,742,False,MIT License
+573,17857,https://github.com/dapr/dapr.git,1362,Go,107776,427,1362,316,17857,35,3044,False,Apache License 2.0
+574,17881,https://github.com/philc/vimium.git,2162,JavaScript,5705,296,2162,1001,17881,53,4423,False,MIT License
+575,17803,https://github.com/refined-github/refined-github.git,1273,TypeScript,19171,202,1273,129,17803,1,3017,False,MIT License
+576,17780,https://github.com/go-kratos/kratos.git,3434,Go,7399,426,3434,63,17780,12,1385,False,MIT License
+577,18207,https://github.com/chubin/wttr.in.git,866,Python,2003,210,866,193,18207,7,1182,False,Apache License 2.0
+578,17695,https://github.com/valyala/fasthttp.git,1485,Go,2627,392,1485,38,17695,4,1477,False,MIT License
+579,17767,https://github.com/ogham/exa.git,528,Rust,3681,132,528,226,17767,25,1546,False,MIT License
+580,17688,https://github.com/apollographql/apollo-client.git,2401,TypeScript,67346,297,2401,650,17688,91,10898,False,MIT License
+581,17671,https://github.com/svg/svgo.git,1265,JavaScript,3918,250,1265,223,17671,37,1318,False,MIT License
+582,17646,https://github.com/dotnet/core.git,4491,PowerShell,18731,1347,4491,371,17646,3,3796,False,Other
+583,17597,https://github.com/airyland/vux.git,3831,Vue,33236,690,3831,393,17597,17,2620,False,MIT License
+584,17610,https://github.com/magenta/magenta.git,3613,Python,37406,787,3613,344,17610,39,1407,False,Apache License 2.0
+585,17594,https://github.com/arendst/Tasmota.git,3914,C,187820,656,3914,11,17594,2,15596,False,GNU General Public License v3.0
+586,17577,https://github.com/rustdesk/rustdesk.git,1754,Rust,5128,218,1754,195,17577,3,1168,False,GNU General Public License v3.0
+587,17567,https://github.com/goldbergyoni/javascript-testing-best-practices.git,1546,JavaScript,10687,286,1546,48,17567,15,913,False,MIT License
+588,17629,https://github.com/typicode/lowdb.git,834,JavaScript,997,228,834,4,17629,2,471,False,MIT License
+589,17507,https://github.com/Z4nzu/hackingtool.git,2159,Python,1266,850,2159,79,17507,15,174,False,MIT License
+590,17600,https://github.com/react-dnd/react-dnd.git,1835,TypeScript,592540,187,1835,303,17600,1,2226,False,MIT License
+591,17507,https://github.com/mojs/mojs.git,921,CoffeeScript,143694,412,921,35,17507,0,1677,False,MIT License
+592,17593,https://github.com/quii/learn-go-with-tests.git,2284,Go,9015,322,2284,26,17593,4,1222,False,MIT License
+593,17494,https://github.com/crystal-lang/crystal.git,1345,Crystal,53794,427,1345,1442,17494,253,13844,False,Apache License 2.0
+594,17479,https://github.com/processing/p5.js.git,2657,JavaScript,77870,490,2657,225,17479,23,9506,False,GNU Lesser General Public License v2.1
+595,17474,https://github.com/google/jax.git,1616,Python,50772,266,1616,1099,17474,194,11568,False,Apache License 2.0
+596,17471,https://github.com/uikit/uikit.git,2317,HTML,49364,685,2317,741,17471,47,5247,False,MIT License
+597,17688,https://github.com/type-challenges/type-challenges.git,1527,TypeScript,1764,82,1527,9165,17688,14,636,False,MIT License
+598,17518,https://github.com/zeromicro/go-zero.git,2482,Go,9381,265,2482,63,17518,13,1373,False,MIT License
+599,17409,https://github.com/CarGuo/GSYVideoPlayer.git,3869,Java,358843,424,3869,15,17409,0,1418,False,Apache License 2.0
+600,17402,https://github.com/freqtrade/freqtrade.git,3730,Python,75014,568,3730,59,17402,14,16435,False,GNU General Public License v3.0
+601,17405,https://github.com/google/flexbox-layout.git,1799,Kotlin,49328,456,1799,110,17405,11,370,False,Apache License 2.0
+602,17399,https://github.com/swoole/swoole-src.git,3192,C++,49557,859,3192,77,17399,3,12471,False,Apache License 2.0
+603,17393,https://github.com/pubkey/rxdb.git,852,TypeScript,77645,235,852,12,17393,10,7169,False,Apache License 2.0
+604,17391,https://github.com/goharbor/harbor.git,4071,Go,210420,536,4071,916,17391,45,11201,False,Apache License 2.0
+605,17366,https://github.com/jsdom/jsdom.git,1495,JavaScript,33956,266,1495,442,17366,45,3544,False,MIT License
+606,17358,https://github.com/flameshot-org/flameshot.git,1099,C++,19344,193,1099,309,17358,7,1708,False,GNU General Public License v3.0
+607,17343,https://github.com/tzutalin/labelImg.git,5409,Python,238438,363,5409,348,17343,37,429,False,MIT License
+608,17304,https://github.com/Redocly/redoc.git,1929,TypeScript,52352,282,1929,384,17304,15,2413,False,MIT License
+609,17287,https://github.com/BabylonJS/Babylon.js.git,2801,TypeScript,4667725,539,2801,99,17287,14,36897,False,Apache License 2.0
+610,17311,https://github.com/SortableJS/Vue.Draggable.git,2680,JavaScript,14548,237,2680,193,17311,35,520,False,MIT License
+611,17290,https://github.com/nosir/cleave.js.git,1628,JavaScript,3710,191,1628,192,17290,22,423,False,Apache License 2.0
+612,17317,https://github.com/facert/awesome-spider.git,4399,None,121,814,4399,22,17317,2,147,False,MIT License
+613,17260,https://github.com/qier222/YesPlayMusic.git,2488,Vue,31863,183,2488,228,17260,6,614,False,MIT License
+614,17365,https://github.com/solidjs/solid.git,454,TypeScript,8864,174,454,15,17366,6,1326,False,MIT License
+615,17204,https://github.com/louislam/uptime-kuma.git,1273,JavaScript,6599,120,1273,535,17204,46,2691,False,MIT License
+616,17181,https://github.com/mybatis/mybatis-3.git,11599,Java,117015,1180,11599,198,17181,60,4155,False,Other
+617,17183,https://github.com/apache/rocketmq.git,9674,Java,13144,885,9674,582,17183,175,2105,False,Apache License 2.0
+618,17181,https://github.com/shieldfy/API-Security-Checklist.git,2063,None,405,499,2063,15,17181,4,280,False,MIT License
+619,17167,https://github.com/mysqljs/mysql.git,2435,JavaScript,2793,498,2435,167,17167,31,1378,False,MIT License
+620,17176,https://github.com/alibaba/ice.git,2041,TypeScript,121552,456,2041,159,17176,12,1762,False,MIT License
+621,17149,https://github.com/julianshapiro/velocity.git,1613,JavaScript,8139,410,1613,42,17149,0,895,False,MIT License
+622,17239,https://github.com/google/mediapipe.git,3624,C++,541972,477,3624,409,17239,51,115,False,Apache License 2.0
+623,17144,https://github.com/pnpm/pnpm.git,482,TypeScript,100972,107,482,709,17144,13,7473,False,MIT License
+624,17122,https://github.com/chai2010/advanced-go-programming-book.git,2949,Go,21125,563,2949,53,17122,3,1510,False,"BSD 2-Clause ""Simplified"" License"
+625,17109,https://github.com/TanStack/react-table.git,2380,TypeScript,19011,150,2380,2,17109,1,1716,False,MIT License
+626,17103,https://github.com/gorilla/websocket.git,2867,Go,482,384,2867,36,17103,11,307,False,"BSD 2-Clause ""Simplified"" License"
+627,17138,https://github.com/reduxjs/redux-thunk.git,1035,TypeScript,1087,180,1035,1,17138,0,166,False,MIT License
+628,17174,https://github.com/ai/nanoid.git,618,JavaScript,4669,140,618,3,17174,0,912,False,MIT License
+629,17064,https://github.com/jquense/yup.git,752,TypeScript,3639,68,752,366,17064,57,666,False,MIT License
+630,16977,https://github.com/toml-lang/toml.git,823,None,2326,332,823,35,16977,10,804,False,MIT License
+631,16949,https://github.com/microsoft/winget-cli.git,937,C++,20883,266,937,494,16949,13,584,False,MIT License
+632,16936,https://github.com/facebook/relay.git,1696,Rust,2570668,351,1696,396,16936,51,8022,False,MIT License
+633,16948,https://github.com/pytorch/fairseq.git,4462,Python,22140,328,4462,574,16948,40,2174,False,MIT License
+634,16941,https://github.com/Molunerfinn/PicGo.git,1830,TypeScript,4862,172,1830,19,16941,0,428,False,MIT License
+635,16944,https://github.com/facebookresearch/faiss.git,2607,C++,57105,443,2607,181,16944,10,623,False,MIT License
+636,16894,https://github.com/oldj/SwitchHosts.git,1957,TypeScript,31671,370,1957,297,16894,0,1229,False,Apache License 2.0
+637,16914,https://github.com/cookiecutter/cookiecutter.git,1643,Python,2850,244,1643,253,16914,58,2763,False,"BSD 3-Clause ""New"" or ""Revised"" License"
+638,17095,https://github.com/rough-stuff/rough.git,551,HTML,6246,160,551,23,17095,2,447,False,MIT License
+639,16900,https://github.com/pmndrs/zustand.git,479,TypeScript,4220,113,479,22,16900,2,646,False,MIT License
+640,16827,https://github.com/prisma/prisma1.git,927,Scala,194164,99,927,549,16827,63,12489,False,Apache License 2.0
+641,16811,https://github.com/nostra13/Android-Universal-Image-Loader.git,6236,Java,27128,1359,6236,447,16811,5,1038,False,Apache License 2.0
+642,16789,https://github.com/facebook/fresco.git,3770,Java,74243,870,3770,186,16789,12,3180,False,MIT License
+643,16779,https://github.com/less/less.js.git,3474,JavaScript,16039,675,3474,172,16779,14,2961,False,Apache License 2.0
+644,16766,https://github.com/defunkt/jquery-pjax.git,2070,JavaScript,874,563,2070,94,16766,37,508,False,MIT License
+645,16794,https://github.com/spaceship-prompt/spaceship-prompt.git,906,Shell,7489,97,906,165,16794,69,1309,False,MIT License
+646,16760,https://github.com/angular/material.git,3555,JavaScript,51334,724,3555,278,16760,9,4949,False,MIT License
+647,16745,https://github.com/framework7io/framework7.git,3311,JavaScript,101565,692,3311,93,16745,0,6631,False,MIT License
+648,16730,https://github.com/tachiyomiorg/tachiyomi.git,2048,Kotlin,33635,558,2048,551,16730,27,4395,False,Apache License 2.0
+649,16757,https://github.com/restic/restic.git,1135,Go,60944,239,1135,444,16757,64,5936,False,"BSD 2-Clause ""Simplified"" License"
+650,16706,https://github.com/zloirock/core-js.git,1269,JavaScript,33641,228,1269,23,16706,3,4206,False,MIT License
+651,16702,https://github.com/facebookexperimental/Recoil.git,883,JavaScript,34529,223,883,183,16702,31,794,False,MIT License
+652,16689,https://github.com/ethereum/solidity.git,3964,C++,62681,633,3964,1069,16689,99,22198,False,GNU General Public License v3.0
+653,16676,https://github.com/dianping/cat.git,5163,Java,113421,1154,5163,100,16676,2,7339,False,Apache License 2.0
+654,16635,https://github.com/kelthuzadx/hosts.git,7715,Rascal,8892,1859,7715,3,16635,0,1260,False,MIT License
+655,16697,https://github.com/HarisIqbal88/PlotNeuralNet.git,2300,TeX,2269,207,2300,69,16697,13,58,False,MIT License
+656,16724,https://github.com/fyne-io/fyne.git,924,Go,74610,231,924,388,16724,19,6236,False,"BSD 3-Clause ""New"" or ""Revised"" License"
+657,16567,https://github.com/handlebars-lang/handlebars.js.git,2071,JavaScript,3900,454,2071,95,16567,22,2010,False,MIT License
+658,16606,https://github.com/fingerprintjs/fingerprintjs.git,1908,TypeScript,1726,412,1908,18,16606,1,679,False,MIT License
+659,16613,https://github.com/gorilla/mux.git,1519,Go,447,314,1519,18,16613,10,290,False,"BSD 3-Clause ""New"" or ""Revised"" License"
+660,16505,https://github.com/expo/expo.git,3283,Objective-C,2343616,245,3283,549,16505,168,14999,False,MIT License
+661,16501,https://github.com/ElemeFE/mint-ui.git,3587,Vue,3420,480,3587,297,16501,56,304,False,MIT License
+662,16479,https://github.com/LingCoder/OnJava8.git,5489,None,8486,627,5489,4,16479,2,1334,False,MIT License
+663,16461,https://github.com/plotly/dash.git,1698,Python,112606,401,1698,602,16461,30,5994,False,MIT License
+664,16509,https://github.com/yudai/gotty.git,1284,Go,6484,335,1284,141,16509,42,230,False,MIT License
+665,16404,https://github.com/backstage/backstage.git,2495,TypeScript,1377556,193,2495,512,16404,78,26742,False,Apache License 2.0
+666,16405,https://github.com/statsd/statsd.git,1975,JavaScript,803,457,1975,84,16405,35,1018,False,MIT License
+667,16404,https://github.com/twitter/typeahead.js.git,3294,JavaScript,2151,563,3294,507,16404,94,594,False,MIT License
+668,16382,https://github.com/gchq/CyberChef.git,2050,JavaScript,78082,340,2050,302,16382,97,3167,False,Apache License 2.0
+669,16388,https://github.com/testing-library/react-testing-library.git,955,JavaScript,1540,147,955,16,16388,0,478,False,MIT License
+670,16382,https://github.com/vim-airline/vim-airline.git,1105,Vim script,3738,230,1105,42,16382,3,2638,False,MIT License
+671,16320,https://github.com/jamiebuilds/react-loadable.git,854,JavaScript,386,149,854,37,16320,33,220,False,MIT License
+672,16363,https://github.com/GoogleChromeLabs/squoosh.git,1115,TypeScript,136418,234,1115,219,16363,55,1425,False,Apache License 2.0
+673,16325,https://github.com/matomo-org/matomo.git,2303,PHP,271418,428,2303,2002,16325,24,28423,False,GNU General Public License v3.0
+674,16327,https://github.com/stretchr/testify.git,1237,Go,1392,174,1237,330,16327,104,787,False,MIT License
+675,16321,https://github.com/remix-run/remix.git,1267,TypeScript,22784,193,1267,308,16321,120,2474,False,MIT License
+676,16287,https://github.com/bokeh/bokeh.git,3932,Python,261236,458,3932,710,16287,26,19546,False,"BSD 3-Clause ""New"" or ""Revised"" License"
+677,16363,https://github.com/PanJiaChen/vue-admin-template.git,6405,JavaScript,1014,413,6405,279,16363,30,234,False,MIT License
+678,16314,https://github.com/slundberg/shap.git,2475,Jupyter Notebook,235329,248,2475,1425,16314,76,2142,False,MIT License
+679,16262,https://github.com/shuzheng/zheng.git,7468,Java,41278,1485,7468,72,16262,38,1241,False,MIT License
+680,16255,https://github.com/nickbutcher/plaid.git,3259,Kotlin,33949,645,3259,98,16255,24,1277,False,Apache License 2.0
+681,16256,https://github.com/charlax/professional-programming.git,1487,Python,4631,560,1487,1,16256,1,312,False,MIT License
+682,16241,https://github.com/radareorg/radare2.git,2685,C,150881,481,2685,845,16241,17,27889,False,Other
+683,16269,https://github.com/tj/n.git,712,Shell,3292,207,712,0,16269,0,756,False,MIT License
+684,16222,https://github.com/tensorflow/tfjs.git,1730,TypeScript,158634,322,1730,634,16222,136,5262,False,Apache License 2.0
+685,16233,https://github.com/SBoudrias/Inquirer.js.git,1121,JavaScript,3326,152,1121,220,16233,12,919,False,MIT License
+686,16214,https://github.com/joewalnes/websocketd.git,969,Go,1065,366,969,34,16214,1,317,False,"BSD 2-Clause ""Simplified"" License"
+687,16244,https://github.com/nfl/react-helmet.git,684,JavaScript,1581,121,684,200,16244,49,349,False,MIT License
+688,16188,https://github.com/material-components/material-components-web.git,2169,TypeScript,86281,398,2169,401,16188,53,7046,False,MIT License
+689,16153,https://github.com/hubotio/hubot.git,3871,JavaScript,2020,614,3871,104,16153,21,2066,False,MIT License
+690,16149,https://github.com/chriskiehl/Gooey.git,868,Python,4269,279,868,119,16149,20,743,False,MIT License
+691,16153,https://github.com/jashkenas/coffeescript.git,2026,CoffeeScript,30014,525,2026,66,16153,11,4901,False,MIT License
+692,16161,https://github.com/dani-garcia/vaultwarden.git,885,Rust,6124,186,885,12,16161,5,1822,False,GNU General Public License v3.0
+693,16119,https://github.com/aFarkas/lazysizes.git,1708,JavaScript,2806,284,1708,181,16119,30,854,False,MIT License
+694,16111,https://github.com/sanic-org/sanic.git,1451,Python,3899,417,1451,54,16111,12,2653,False,MIT License
+695,16099,https://github.com/tokio-rs/tokio.git,1501,Rust,10074,293,1501,229,16099,45,2899,False,MIT License
+696,16092,https://github.com/instillai/TensorFlow-Course.git,3248,Jupyter Notebook,21714,822,3248,1,16092,0,227,False,MIT License
+697,16077,https://github.com/iview/iview-admin.git,4884,Vue,61421,632,4884,615,16077,56,462,False,MIT License
+698,16088,https://github.com/realm/SwiftLint.git,1921,Swift,201734,249,1921,305,16088,36,5502,False,MIT License
+699,16068,https://github.com/ionic-team/ionicons.git,1993,TypeScript,26871,412,1993,484,16068,34,531,False,MIT License
+700,16048,https://github.com/Shopify/draggable.git,1035,JavaScript,4942,596,1035,142,16048,50,385,False,MIT License
+701,16054,https://github.com/matryer/xbar.git,634,Go,64924,183,634,109,16054,3,1031,False,MIT License
+702,16005,https://github.com/nondanee/UnblockNeteaseMusic.git,2462,JavaScript,1775,237,2462,193,16005,9,413,False,MIT License
+703,16009,https://github.com/visionmedia/superagent.git,1316,JavaScript,4366,224,1316,163,16009,5,1777,False,MIT License
+704,16005,https://github.com/dvajs/dva.git,3224,JavaScript,1741,449,3224,11,16005,2,752,False,MIT License
+705,15951,https://github.com/Kotlin/anko.git,1304,Kotlin,15239,545,1304,243,15951,6,1064,False,Apache License 2.0
+706,15959,https://github.com/jdg/MBProgressHUD.git,3517,Objective-C,1253,574,3517,68,15959,7,683,False,MIT License
+707,16003,https://github.com/nginx-proxy/nginx-proxy.git,2746,Python,871,280,2746,468,16003,65,866,False,MIT License
+708,15965,https://github.com/grpc/grpc-go.git,3554,Go,18507,481,3554,126,15965,14,4148,False,Apache License 2.0
+709,15900,https://github.com/trojan-gfw/trojan.git,2816,C++,925,502,2816,35,15900,2,466,False,GNU General Public License v3.0
+710,15886,https://github.com/directus/directus.git,1797,TypeScript,366473,279,1797,198,15886,97,8778,False,GNU General Public License v3.0
+711,15884,https://github.com/apache/shardingsphere.git,5604,Java,474974,962,5604,515,15884,23,33363,False,Apache License 2.0
+712,15905,https://github.com/MonitorControl/MonitorControl.git,507,Swift,29699,135,507,55,15905,0,219,False,MIT License
+713,15876,https://github.com/dotnet/roslyn.git,3602,C#,1535186,1025,3602,9152,15876,394,86041,False,MIT License
+714,15884,https://github.com/EastWorld/wechat-app-mall.git,5614,JavaScript,7976,898,5614,0,15884,0,574,False,Apache License 2.0
+715,15908,https://github.com/youzan/vant-weapp.git,3319,JavaScript,20103,441,3319,189,15908,15,2414,False,MIT License
+716,15857,https://github.com/VSCodium/vscodium.git,683,Shell,15468,161,683,98,15857,7,602,False,MIT License
+717,15800,https://github.com/filebrowser/filebrowser.git,2009,Go,19319,278,2009,180,15800,18,2310,False,Apache License 2.0
+718,15775,https://github.com/zulip/zulip.git,5390,Python,358291,384,5390,2594,15775,968,47223,False,Apache License 2.0
+719,15759,https://github.com/iissnan/hexo-theme-next.git,3785,CSS,13272,460,3785,90,15759,16,1808,False,MIT License
+720,15780,https://github.com/ForrestKnight/open-source-cs.git,2767,None,12,1077,2767,10,15780,0,16,False,MIT License
+721,15751,https://github.com/briannesbitt/Carbon.git,1209,PHP,14416,230,1209,16,15751,8,3242,False,MIT License
+722,15785,https://github.com/uber-go/zap.git,1137,Go,1313,250,1137,110,15785,17,546,False,MIT License
+723,15756,https://github.com/oblador/react-native-vector-icons.git,1992,JavaScript,8047,212,1992,361,15756,15,573,False,MIT License
+724,15751,https://github.com/artf/grapesjs.git,3010,JavaScript,91511,456,3010,74,15751,8,4810,False,"BSD 3-Clause ""New"" or ""Revised"" License"
+725,15711,https://github.com/jaegertracing/jaeger.git,1887,Go,22322,347,1887,314,15711,6,1690,False,Apache License 2.0
+726,15697,https://github.com/react-grid-layout/react-grid-layout.git,2164,JavaScript,14563,226,2164,119,15697,81,711,False,MIT License
+727,15677,https://github.com/spotify/luigi.git,2333,Python,10617,489,2333,88,15677,24,4036,False,Apache License 2.0
+728,15659,https://github.com/flutter/plugins.git,8927,Dart,30705,518,8927,94,15659,93,3737,False,"BSD 3-Clause ""New"" or ""Revised"" License"
+729,15677,https://github.com/winterbe/java8-tutorial.git,3848,Java,157,1012,3848,15,15677,0,149,False,MIT License
+730,15599,https://github.com/tj/git-extras.git,1166,Shell,1854,219,1166,123,15599,28,1661,False,MIT License
+731,15586,https://github.com/hackiftekhar/IQKeyboardManager.git,2332,Objective-C,23282,362,2332,21,15586,1,1206,False,MIT License
+732,15552,https://github.com/simdjson/simdjson.git,834,C++,21425,231,834,126,15552,6,2368,False,Apache License 2.0
+733,15529,https://github.com/jeromeetienne/AR.js.git,2200,HTML,327252,563,2200,9,15529,2,1618,False,MIT License
+734,15562,https://github.com/so-fancy/diff-so-fancy.git,332,Perl,766,117,332,20,15562,6,651,False,MIT License
+735,15514,https://github.com/element-plus/element-plus.git,4199,Vue,256084,176,4199,744,15514,129,3442,False,MIT License
+736,15561,https://github.com/livewire/livewire.git,889,Blade,10060,179,889,16,15561,16,3009,False,MIT License
+737,15433,https://github.com/CodeByZach/pace.git,1955,CSS,1388,394,1955,290,15433,8,444,False,MIT License
+738,15423,https://github.com/binux/pyspider.git,3643,Python,4171,902,3643,291,15423,21,1181,False,Apache License 2.0
+739,15424,https://github.com/salomonelli/best-resume-ever.git,2218,Vue,43428,329,2218,56,15424,25,700,False,MIT License
+740,15495,https://github.com/ustbhuangyi/better-scroll.git,2578,TypeScript,19130,260,2578,25,15495,3,1984,False,MIT License
+741,15406,https://github.com/nikic/PHP-Parser.git,873,PHP,6068,237,873,76,15406,11,1399,False,"BSD 3-Clause ""New"" or ""Revised"" License"
+742,15386,https://github.com/infernojs/inferno.git,670,JavaScript,37971,286,670,35,15386,0,6069,False,MIT License
+743,15377,https://github.com/helm/charts.git,17190,Go,291410,395,17190,0,15377,0,13769,False,Apache License 2.0
+744,15378,https://github.com/motdotla/dotenv.git,753,JavaScript,1215,103,753,21,15378,4,470,False,"BSD 2-Clause ""Simplified"" License"
+745,15345,https://github.com/ipython/ipython.git,4340,Python,76608,774,4340,1546,15345,75,25961,False,Other
+746,15384,https://github.com/fchollet/deep-learning-with-python-notebooks.git,7573,Jupyter Notebook,6943,645,7573,151,15384,32,42,False,MIT License
+747,15377,https://github.com/openzipkin/zipkin.git,2932,Java,66771,709,2932,188,15377,21,2689,False,Apache License 2.0
+748,15295,https://github.com/limetext/lime.git,1117,None,2133,774,1117,22,15295,0,1104,False,"BSD 2-Clause ""Simplified"" License"
+749,15277,https://github.com/spf13/spf13-vim.git,3760,VimL,5905,689,3760,350,15277,40,951,False,Apache License 2.0
+750,15300,https://github.com/JedWatson/classnames.git,526,JavaScript,604,132,526,12,15300,4,314,False,MIT License
+751,15273,https://github.com/dotnet/maui.git,878,C#,123847,665,878,1044,15273,50,9707,False,MIT License
+752,15305,https://github.com/netlify/netlify-cms.git,2752,JavaScript,79012,262,2752,702,15305,29,4087,False,MIT License
+753,15306,https://github.com/janl/mustache.js.git,2436,JavaScript,1594,414,2436,89,15306,29,829,False,MIT License
+754,15250,https://github.com/jhao104/proxy_pool.git,4116,Python,566,447,4116,278,15250,5,606,False,MIT License
+755,15290,https://github.com/auth0/node-jsonwebtoken.git,1103,JavaScript,416,265,1103,92,15290,27,438,False,MIT License
+756,15156,https://github.com/redis/node-redis.git,1636,TypeScript,23498,305,1636,170,15156,26,1733,False,MIT License
+757,15152,https://github.com/android10/Android-CleanArchitecture.git,3353,Java,5191,855,3353,144,15152,16,248,False,Apache License 2.0
+758,15146,https://github.com/altercation/solarized.git,3576,Vim script,34558,424,3576,222,15146,71,374,False,MIT License
+759,15142,https://github.com/quantopian/zipline.git,4399,Python,170757,1010,4399,354,15142,36,6226,False,Apache License 2.0
+760,15196,https://github.com/airbnb/visx.git,586,TypeScript,14949,151,586,110,15196,11,3058,False,MIT License
+761,15133,https://github.com/KaTeX/KaTeX.git,1053,JavaScript,81708,279,1053,338,15133,38,2071,False,MIT License
+762,15124,https://github.com/dylanaraps/neofetch.git,1120,Shell,8005,212,1120,236,15124,114,5274,False,MIT License
+763,15094,https://github.com/tailwindlabs/heroicons.git,939,JavaScript,1222,161,939,1,15094,0,104,False,MIT License
+764,15194,https://github.com/wulkano/Kap.git,754,TypeScript,25385,179,754,164,15194,10,896,False,MIT License
+765,15080,https://github.com/ueberdosis/tiptap.git,1375,TypeScript,26351,143,1375,165,15080,21,5341,False,MIT License
+766,15076,https://github.com/rasbt/deeplearning-models.git,3731,Jupyter Notebook,43022,607,3731,3,15076,0,168,False,MIT License
+767,15062,https://github.com/bower/bower.git,1956,JavaScript,4768,729,1956,3,15062,2,2792,False,MIT License
+768,15044,https://github.com/lottie-react-native/lottie-react-native.git,1677,C++,333531,254,1677,143,15044,11,636,False,Apache License 2.0
+769,15077,https://github.com/appium/appium.git,5639,JavaScript,97727,903,5639,218,15077,21,7365,False,Apache License 2.0
+770,15052,https://github.com/jantic/DeOldify.git,2152,Jupyter Notebook,71238,422,2152,5,15052,0,478,False,MIT License
+771,15035,https://github.com/Nyr/openvpn-install.git,4043,Shell,159,524,4043,23,15035,8,178,False,MIT License
+772,15017,https://github.com/cool-RR/PySnooper.git,918,Python,487,233,918,19,15017,0,305,False,MIT License
+773,15000,https://github.com/fullcalendar/fullcalendar.git,3354,TypeScript,30555,450,3354,736,15000,21,5845,False,MIT License
+774,14988,https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer.git,2558,None,79,833,2558,38,14988,28,53,False,MIT License
+775,14974,https://github.com/fastai/fastbook.git,5471,Jupyter Notebook,80372,473,5471,51,14974,5,487,False,GNU General Public License v3.0
+776,14962,https://github.com/kriskowal/q.git,1246,JavaScript,1428,420,1246,117,14962,16,902,False,MIT License
+777,14952,https://github.com/pouchdb/pouchdb.git,1413,JavaScript,121422,281,1413,27,14952,15,4823,False,Apache License 2.0
+778,14928,https://github.com/designmodo/Flat-UI.git,2403,JavaScript,36190,752,2403,9,14928,0,246,False,MIT License
+779,14910,https://github.com/huiyadanli/RevokeMsgPatcher.git,2100,C#,3613,224,2100,19,14910,0,199,False,GNU General Public License v3.0
+780,14910,https://github.com/SimulatedGREG/electron-vue.git,1559,JavaScript,5927,258,1559,280,14910,17,844,False,MIT License
+781,14943,https://github.com/flatpickr/flatpickr.git,1343,TypeScript,8280,213,1343,617,14943,70,2860,False,MIT License
+782,14897,https://github.com/airbnb/react-sketchapp.git,876,TypeScript,4428,420,876,35,14897,5,780,False,MIT License
+783,14980,https://github.com/lin-xin/vue-manage-system.git,5192,Vue,3137,565,5192,107,14980,11,224,False,MIT License
+784,14912,https://github.com/emotion-js/emotion.git,980,JavaScript,18938,102,980,181,14912,37,1698,False,MIT License
+785,14856,https://github.com/ampproject/amphtml.git,3988,JavaScript,936009,664,3988,1472,14856,402,21527,False,Apache License 2.0
+786,14843,https://github.com/acdlite/recompose.git,1302,JavaScript,1397,179,1302,121,14843,59,649,False,MIT License
+787,14843,https://github.com/JeffLi1993/springboot-learning-example.git,6998,Java,401,1028,6998,49,14843,37,167,False,Apache License 2.0
+788,14815,https://github.com/hoanhan101/ultimate-go.git,1195,Go,1190,413,1195,0,14815,0,247,False,Apache License 2.0
+789,14809,https://github.com/tailwindlabs/headlessui.git,555,TypeScript,2459,158,555,22,14809,3,353,False,MIT License
+790,15009,https://github.com/ShusenTang/Dive-into-DL-PyTorch.git,4840,Jupyter Notebook,35157,390,4840,78,15009,7,241,False,Apache License 2.0
+791,14773,https://github.com/bloc97/Anime4K.git,1268,Jupyter Notebook,820375,274,1268,76,14773,1,417,False,MIT License
+792,14817,https://github.com/LMAX-Exchange/disruptor.git,3605,Java,9631,1285,3605,21,14817,1,1280,False,Apache License 2.0
+793,14753,https://github.com/yaronn/blessed-contrib.git,891,JavaScript,5532,334,891,83,14753,11,408,False,MIT License
+794,14740,https://github.com/keystonejs/keystone-classic.git,2309,JavaScript,151918,506,2309,363,14740,58,8795,False,MIT License
+795,14742,https://github.com/desktop/desktop.git,7915,TypeScript,80786,1617,7915,720,14742,10,32396,False,MIT License
+796,14721,https://github.com/2dust/v2rayNG.git,2632,Kotlin,198872,358,2632,72,14721,0,275,False,GNU General Public License v3.0
+797,14689,https://github.com/lllyasviel/style2paints.git,1828,JavaScript,333164,552,1828,18,14689,4,347,False,Apache License 2.0
+798,14807,https://github.com/JaidedAI/EasyOCR.git,2067,Python,151660,282,2067,107,14807,1,498,False,Apache License 2.0
+799,14662,https://github.com/plotly/plotly.js.git,1667,JavaScript,1231159,287,1667,1251,14662,32,23973,False,MIT License
+800,14643,https://github.com/Anuken/Mindustry.git,2043,Java,1778205,580,2043,180,14643,164,14391,False,GNU General Public License v3.0
+801,14632,https://github.com/nhn/tui.editor.git,1419,TypeScript,77872,234,1419,318,14632,28,331,False,MIT License
+802,14610,https://github.com/pyg-team/pytorch_geometric.git,2611,Python,8048,242,2611,947,14610,44,5528,False,MIT License
+803,14620,https://github.com/kivy/kivy.git,2882,Python,74652,609,2882,902,14620,61,12652,False,MIT License
+804,14658,https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore.git,718,JavaScript,784,210,718,43,14658,8,498,False,MIT License
+805,14573,https://github.com/jina-ai/jina.git,1918,Python,641137,178,1918,66,14573,5,7458,False,Apache License 2.0
+806,14562,https://github.com/Eloston/ungoogled-chromium.git,667,Python,11010,283,667,103,14562,9,1956,False,"BSD 3-Clause ""New"" or ""Revised"" License"
+807,14646,https://github.com/jellyfin/jellyfin.git,1487,C#,53384,260,1487,734,14647,85,22860,False,GNU General Public License v2.0
+808,14556,https://github.com/node-red/node-red.git,2746,JavaScript,37976,531,2746,246,14556,55,7524,False,Apache License 2.0
+809,14644,https://github.com/cloudreve/Cloudreve.git,2543,Go,7279,211,2543,225,14644,7,757,False,GNU General Public License v3.0
+810,14542,https://github.com/framer/motion.git,440,TypeScript,284650,95,440,195,14542,8,3145,False,MIT License
+811,14551,https://github.com/magic-wormhole/magic-wormhole.git,532,Python,2600,217,532,139,14551,8,1523,False,MIT License
+812,14527,https://github.com/sweetalert2/sweetalert2.git,1453,JavaScript,18664,211,1453,10,14527,1,2764,False,MIT License
+813,14612,https://github.com/NVIDIA/nvidia-docker.git,1878,Makefile,19835,445,1878,210,14612,0,420,False,Apache License 2.0
+814,14545,https://github.com/hemanth/functional-programming-jargon.git,878,None,484,365,878,20,14545,4,269,False,MIT License
+815,14502,https://github.com/twbs/ratchet.git,1498,CSS,16494,619,1498,222,14502,20,1401,False,MIT License
+816,14515,https://github.com/zsh-users/zsh-syntax-highlighting.git,1095,Shell,1547,137,1095,160,14515,35,1313,False,"BSD 3-Clause ""New"" or ""Revised"" License"
+817,14481,https://github.com/iovisor/bcc.git,2838,C,16944,541,2838,703,14481,84,4171,False,Apache License 2.0
+818,14461,https://github.com/angular-ui/bootstrap.git,6972,JavaScript,9938,775,6972,337,14461,67,2073,False,MIT License
+819,14470,https://github.com/asdf-vm/asdf.git,569,Shell,1671,115,569,139,14470,22,1472,False,MIT License
+820,14457,https://github.com/chrislusf/seaweedfs.git,1766,Go,44636,523,1766,81,14457,10,7838,False,Apache License 2.0
+821,14425,https://github.com/facebook/prophet.git,4173,Python,54557,416,4173,230,14425,16,709,False,MIT License
+822,14441,https://github.com/thedaviddias/Front-End-Performance-Checklist.git,1063,None,404,379,1063,11,14441,3,216,False,MIT License
+823,14416,https://github.com/copy/v86.git,1062,Rust,14118,344,1062,84,14416,3,3943,False,"BSD 2-Clause ""Simplified"" License"
+824,14390,https://github.com/cmusatyalab/openface.git,3582,Lua,24598,776,3582,10,14390,3,734,False,Apache License 2.0
+825,14390,https://github.com/grab/front-end-guide.git,1122,JavaScript,4267,490,1122,22,14390,20,74,False,MIT License
+826,14333,https://github.com/cyrildiagne/ar-cutpaste.git,2037,TypeScript,319,594,2037,49,14333,9,50,False,MIT License
+827,14331,https://github.com/frappe/charts.git,689,JavaScript,6718,225,689,137,14331,22,425,False,MIT License
+828,14323,https://github.com/browsh-org/browsh.git,422,JavaScript,7612,194,422,197,14323,18,389,False,GNU Lesser General Public License v2.1
+829,14408,https://github.com/swagger-api/swagger-codegen.git,5791,Mustache,102280,420,5791,3167,14408,372,11516,False,Apache License 2.0
+830,14270,https://github.com/kailashahirwar/cheatsheets-ai.git,3427,None,29960,1069,3427,7,14270,0,32,False,MIT License
+831,14202,https://github.com/hdodenhof/CircleImageView.git,3118,Java,1000,408,3118,16,14202,2,159,False,Apache License 2.0
+832,14171,https://github.com/joke2k/faker.git,1616,Python,8093,216,1616,72,14171,11,2948,False,MIT License
+833,14202,https://github.com/maxwellito/vivus.git,1131,JavaScript,459,282,1131,12,14202,0,173,False,MIT License
+834,14178,https://github.com/InstaPy/InstaPy.git,3574,Python,83451,667,3574,392,14178,33,3332,False,GNU General Public License v3.0
+835,14174,https://github.com/krisk/Fuse.git,722,JavaScript,6627,140,722,18,14174,7,719,False,Apache License 2.0
+836,14195,https://github.com/mkdocs/mkdocs.git,2002,Python,30126,226,2002,136,14195,18,1645,False,"BSD 2-Clause ""Simplified"" License"
+837,14256,https://github.com/antonmedv/fx.git,398,Go,2865,125,398,4,14256,0,346,False,MIT License
+838,14150,https://github.com/rbenv/rbenv.git,1358,Shell,649,293,1358,24,14150,10,731,False,MIT License
+839,14139,https://github.com/erusev/parsedown.git,1077,PHP,1471,207,1077,129,14139,46,843,False,MIT License
+840,14185,https://github.com/cayleygraph/cayley.git,1277,Go,20294,593,1277,89,14185,7,1752,False,Apache License 2.0
+841,14164,https://github.com/checkly/headless-recorder.git,656,JavaScript,12624,188,656,30,14164,9,335,False,MIT License
+842,14166,https://github.com/aframevr/aframe.git,3421,JavaScript,637163,544,3421,364,14166,43,6285,False,MIT License
+843,14072,https://github.com/browserify/browserify.git,1235,JavaScript,2486,294,1235,382,14072,32,2290,False,MIT License
+844,14067,https://github.com/doomemacs/doomemacs.git,2603,Emacs Lisp,27227,237,2603,473,14067,72,17157,False,MIT License
+845,14069,https://github.com/Jam3/math-as-code.git,1027,None,305,420,1027,35,14069,7,135,False,MIT License
+846,14039,https://github.com/vitessio/vitess.git,1755,Go,282964,515,1755,723,14039,93,31178,False,Apache License 2.0
+847,14035,https://github.com/esp8266/Arduino.git,12399,C++,191589,950,12399,330,14035,69,4221,False,GNU Lesser General Public License v2.1
+848,14040,https://github.com/AlDanial/cloc.git,817,Perl,15117,204,817,17,14040,0,917,False,GNU General Public License v2.0
+849,14008,https://github.com/iced-rs/iced.git,604,Rust,6044,170,604,163,14008,21,2425,False,MIT License
+850,14001,https://github.com/dogecoin/dogecoin.git,2566,C++,168624,866,2566,182,14001,66,13953,False,MIT License
+851,13991,https://github.com/iBotPeaches/Apktool.git,3057,Java,222580,635,3057,75,13991,2,1875,False,Apache License 2.0
+852,13985,https://github.com/kubernetes/kops.git,4320,Go,320180,326,4320,177,13985,36,17226,False,Apache License 2.0
+853,13979,https://github.com/RasaHQ/rasa.git,3989,Python,1548637,339,3989,943,13979,106,30111,False,Apache License 2.0
+854,13968,https://github.com/google/filament.git,1367,C++,651936,369,1367,91,13968,2,4888,False,Apache License 2.0
+855,13990,https://github.com/barryvdh/laravel-debugbar.git,1367,PHP,2527,286,1367,42,13990,23,931,False,MIT License
+856,13951,https://github.com/apache/incubator-weex.git,1854,C++,282740,531,1854,248,13951,16,12026,False,Apache License 2.0
+857,14064,https://github.com/localtunnel/localtunnel.git,1081,JavaScript,209,218,1081,125,14064,13,164,False,MIT License
+858,13947,https://github.com/yiisoft/yii2.git,6995,PHP,78520,1121,6995,522,13947,72,20009,False,"BSD 3-Clause ""New"" or ""Revised"" License"
+859,13957,https://github.com/marcuswestin/WebViewJavascriptBridge.git,2941,Objective-C,514,521,2941,95,13957,20,463,False,MIT License
+860,13956,https://github.com/feathersjs/feathers.git,672,TypeScript,13773,242,672,103,13956,8,3662,False,MIT License
+861,14051,https://github.com/julienschmidt/httprouter.git,1341,Go,270,324,1341,71,14051,17,285,False,"BSD 3-Clause ""New"" or ""Revised"" License"
+862,13933,https://github.com/Moya/Moya.git,1847,Swift,18322,249,1847,124,13933,14,3438,False,MIT License
+863,13932,https://github.com/sass/sass.git,1995,TypeScript,943,603,1995,106,13932,7,420,False,MIT License
+864,13933,https://github.com/darkreader/darkreader.git,1832,TypeScript,25762,164,1832,615,13933,94,5527,False,MIT License
+865,13950,https://github.com/dipakkr/A-to-Z-Resources-for-Students.git,4247,None,3526,396,4247,9,13950,6,1207,False,MIT License
+866,13906,https://github.com/ibireme/YYKit.git,3660,Objective-C,56960,615,3660,289,13906,23,312,False,MIT License
+867,13877,https://github.com/wangshub/wechat_jump_game.git,4479,Python,26970,569,4479,35,13877,7,332,False,Apache License 2.0
+868,13873,https://github.com/FormidableLabs/webpack-dashboard.git,429,JavaScript,1694,204,429,31,13873,1,270,False,MIT License
+869,13875,https://github.com/bootstrap-vue/bootstrap-vue.git,1863,JavaScript,52944,304,1863,117,13875,24,5285,False,MIT License
+870,13869,https://github.com/AvaloniaUI/Avalonia.git,1248,C#,141010,441,1248,1263,13869,37,19103,False,MIT License
+871,13839,https://github.com/mxcl/PromiseKit.git,1452,Swift,8760,260,1452,18,13839,6,1480,False,MIT License
+872,13854,https://github.com/dandavison/delta.git,234,Rust,9580,65,234,158,13854,45,1845,False,MIT License
+873,13818,https://github.com/infinitered/ignite.git,1118,TypeScript,54215,225,1118,76,13818,6,2110,False,MIT License
+874,13793,https://github.com/uNetworking/uWebSockets.git,1533,C++,4256,403,1533,27,13793,5,810,False,Apache License 2.0
+875,13789,https://github.com/microsoft/LightGBM.git,3539,C++,19285,448,3539,215,13789,33,2959,False,MIT License
+876,13806,https://github.com/alibaba/ARouter.git,2448,Java,26582,369,2448,85,13806,10,300,False,Apache License 2.0
+877,13758,https://github.com/containers/podman.git,1415,Go,107657,188,1415,240,13758,27,15129,False,Apache License 2.0
+878,13753,https://github.com/Kr328/ClashForAndroid.git,1748,Kotlin,3079,325,1748,70,13753,7,202,False,GNU General Public License v3.0
+879,13751,https://github.com/scala/scala.git,3124,Scala,146626,754,3124,23,13751,23,37731,False,Apache License 2.0
+880,13734,https://github.com/ziglang/zig.git,1164,Zig,164704,237,1164,2069,13734,42,18400,False,MIT License
+881,13736,https://github.com/marcuswestin/store.js.git,1391,JavaScript,579,359,1391,97,13736,29,398,False,MIT License
+882,13713,https://github.com/angular-ui/ui-router.git,3133,TypeScript,13602,500,3133,19,13713,3,2117,False,MIT License
+883,13697,https://github.com/JetBrains/intellij-community.git,4492,None,4124992,521,4492,197,13697,195,373179,False,Apache License 2.0
+884,13696,https://github.com/hashicorp/packer.git,3228,Go,102610,480,3228,329,13696,11,17848,False,Mozilla Public License 2.0
+885,13696,https://github.com/gpujs/gpu.js.git,646,JavaScript,19801,252,646,177,13696,24,1273,False,MIT License
+886,13677,https://github.com/HubSpot/youmightnotneedjquery.git,524,JavaScript,473,307,524,52,13677,19,316,False,MIT License
+887,13750,https://github.com/medcl/elasticsearch-analysis-ik.git,2994,Java,7588,608,2994,344,13750,15,258,False,Apache License 2.0
+888,13670,https://github.com/Sycnex/Windows10Debloater.git,1720,PowerShell,478,366,1720,266,13670,23,338,False,MIT License
+889,13632,https://github.com/koel/koel.git,1748,PHP,12312,340,1748,85,13632,14,2043,False,MIT License
+890,13628,https://github.com/material-components/material-components-android.git,2713,Java,95259,422,2713,426,13628,37,4569,False,Apache License 2.0
+891,13624,https://github.com/Qv2ray/Qv2ray.git,2900,C++,24780,256,2900,23,13624,0,3038,False,GNU General Public License v3.0
+892,13605,https://github.com/graphql/graphiql.git,1487,TypeScript,19242,231,1487,280,13605,18,3160,False,MIT License
+893,13604,https://github.com/CoderMJLee/MJRefresh.git,3554,Objective-C,15525,448,3554,30,13604,6,399,False,MIT License
+894,13597,https://github.com/thomaspark/bootswatch.git,3636,JavaScript,74050,493,3636,19,13597,1,2174,False,MIT License
+895,13578,https://github.com/hyperledger/fabric.git,7975,Go,127887,1025,7975,115,13578,28,14047,False,Apache License 2.0
+896,13566,https://github.com/lgvalle/Material-Animations.git,2536,Java,8692,534,2536,18,13566,5,76,False,MIT License
+897,13559,https://github.com/foreversd/forever.git,980,JavaScript,1305,281,980,336,13559,24,689,False,MIT License
+898,13553,https://github.com/infinitered/reactotron.git,880,JavaScript,21133,165,880,122,13553,15,1257,False,MIT License
+899,13539,https://github.com/afshinea/stanford-cs-229-machine-learning.git,3318,None,38339,678,3318,13,13539,0,178,False,MIT License
+900,13536,https://github.com/kamranahmedse/driver.js.git,744,JavaScript,1997,184,744,90,13536,19,303,False,MIT License
+901,13518,https://github.com/mjmlio/mjml.git,840,JavaScript,9770,168,840,59,13518,10,2354,False,MIT License
+902,13517,https://github.com/commitizen/cz-cli.git,534,JavaScript,1979,79,534,169,13517,20,381,False,MIT License
+903,13470,https://github.com/prestodb/presto.git,4621,Java,171448,869,4621,943,13470,193,19877,False,Apache License 2.0
+904,13464,https://github.com/adobe-webplatform/Snap.svg.git,1172,JavaScript,3624,409,1172,266,13464,10,428,False,Apache License 2.0
+905,13452,https://github.com/jupyter/jupyter.git,3444,Python,6308,664,3444,191,13452,6,745,False,"BSD 3-Clause ""New"" or ""Revised"" License"
+906,13436,https://github.com/wtfutil/wtf.git,744,Go,49179,160,744,21,13436,10,3132,False,Mozilla Public License 2.0
+907,13506,https://github.com/rakyll/hey.git,949,Go,601,176,949,155,13506,63,288,False,Apache License 2.0
+908,13416,https://github.com/edent/SuperTinyIcons.git,788,JavaScript,7815,146,788,27,13416,5,956,False,MIT License
+909,13387,https://github.com/zalmoxisus/redux-devtools-extension.git,1042,JavaScript,12144,162,1042,258,13387,38,945,False,MIT License
+910,13385,https://github.com/fabric/fabric.git,1880,Python,19381,467,1880,432,13385,38,1512,False,"BSD 2-Clause ""Simplified"" License"
+911,13379,https://github.com/gradle/gradle.git,3866,Groovy,422831,502,3866,2095,13379,121,94751,False,Apache License 2.0
+912,13422,https://github.com/ochococo/Design-Patterns-In-Swift.git,1599,Swift,2374,672,1599,3,13422,1,176,False,GNU General Public License v3.0
+913,13440,https://github.com/markdown-it/markdown-it.git,1453,JavaScript,3622,172,1453,9,13440,4,1060,False,MIT License
+914,13376,https://github.com/ArchiveBox/ArchiveBox.git,770,Python,6021,161,770,126,13376,8,2926,False,MIT License
+915,13373,https://github.com/justauth/JustAuth.git,2394,Java,9584,310,2394,22,13373,0,690,False,MIT License
+916,13361,https://github.com/verdaccio/verdaccio.git,1207,TypeScript,164681,163,1207,70,13361,16,4417,False,MIT License
+917,13482,https://github.com/automerge/automerge.git,4047,JavaScript,7269,216,4047,70,13482,11,1357,False,MIT License
+918,13351,https://github.com/huggingface/datasets.git,1679,Python,81929,251,1679,554,13351,107,2752,False,Apache License 2.0
+919,13347,https://github.com/Powerlevel9k/powerlevel9k.git,979,Shell,4519,227,979,173,13347,56,1734,False,MIT License
+920,13340,https://github.com/dcloudio/mui.git,6757,JavaScript,8091,900,6757,333,13340,13,523,False,MIT License
+921,13333,https://github.com/apple/swift-evolution.git,2220,Markdown,7604,1293,2220,40,13333,40,4372,False,Apache License 2.0
+922,13330,https://github.com/philipwalton/flexbugs.git,487,None,436,501,487,89,13330,7,187,False,MIT License
+923,13283,https://github.com/facebook/infer.git,1811,OCaml,153776,600,1811,347,13283,8,10802,False,MIT License
+924,13281,https://github.com/getgrav/grav.git,1358,PHP,24203,351,1358,362,13281,26,7355,False,MIT License
+925,13298,https://github.com/grpc-ecosystem/grpc-gateway.git,1763,Go,6489,285,1763,92,13298,9,1876,False,"BSD 3-Clause ""New"" or ""Revised"" License"
+926,13257,https://github.com/orhanobut/logger.git,2106,Java,1873,373,2106,75,13257,11,146,False,Apache License 2.0
+927,13243,https://github.com/prisma-archive/chromeless.git,606,TypeScript,1088,236,606,198,13243,26,559,False,MIT License
+928,13229,https://github.com/CarGuo/gsy_github_app_flutter.git,2365,Dart,35520,322,2365,9,13229,0,890,False,Apache License 2.0
+929,13223,https://github.com/android-hacker/VirtualXposed.git,2305,Java,49843,522,2305,104,13223,3,1655,False,GNU General Public License v3.0
+930,13215,https://github.com/shelljs/shelljs.git,721,JavaScript,1385,180,721,99,13215,9,814,False,"BSD 3-Clause ""New"" or ""Revised"" License"
+931,13206,https://github.com/MithrilJS/mithril.js.git,945,JavaScript,12289,322,945,113,13206,7,3615,False,MIT License
+932,13196,https://github.com/deviantony/docker-elk.git,5533,Shell,554,354,5533,5,13196,0,318,False,MIT License
+933,13187,https://github.com/angular/angular-seed.git,7126,JavaScript,14494,709,7126,19,13187,9,207,False,MIT License
+934,13170,https://github.com/apache/incubator-brpc.git,3312,C++,36544,842,3312,526,13170,71,2532,False,Apache License 2.0
+935,13166,https://github.com/mozilla/send.git,1445,FreeMarker,64574,459,1445,156,13166,13,3551,False,Mozilla Public License 2.0
+936,13179,https://github.com/RaRe-Technologies/gensim.git,4214,Python,104755,432,4214,375,13179,26,4383,False,GNU Lesser General Public License v2.1
+937,13205,https://github.com/liabru/matter-js.git,1746,JavaScript,23464,240,1746,210,13205,46,869,False,MIT License
+938,13143,https://github.com/google/WebFundamentals.git,2643,HTML,1729206,663,2643,1212,13143,39,11303,False,Apache License 2.0
+939,13150,https://github.com/microsoft/recommenders.git,2298,Python,206937,260,2298,129,13150,5,7654,False,MIT License
+940,13119,https://github.com/trufflesuite/truffle.git,2161,TypeScript,130584,349,2161,500,13119,37,13937,False,MIT License
+941,13145,https://github.com/react-native-maps/react-native-maps.git,4569,Objective-C,4678,224,4569,81,13145,12,1247,False,MIT License
+942,13122,https://github.com/Bigkoo/Android-PickerView.git,3389,Java,6384,312,3389,422,13122,19,490,False,Apache License 2.0
+943,13114,https://github.com/valeriansaliou/sonic.git,448,Rust,2635,188,448,52,13114,4,643,False,Mozilla Public License 2.0
+944,13071,https://github.com/mdx-js/mdx.git,1103,JavaScript,39822,78,1103,16,13071,2,1514,False,MIT License
+945,13055,https://github.com/louischatriot/nedb.git,1005,JavaScript,1526,253,1005,206,13055,42,851,False,MIT License
+946,13053,https://github.com/dropbox/zxcvbn.git,871,CoffeeScript,16189,265,871,126,13053,27,379,False,MIT License
+947,13055,https://github.com/MarlinFirmware/Marlin.git,16727,C++,178618,924,16727,651,13055,47,19562,False,GNU General Public License v3.0
+948,13028,https://github.com/OpenGenus/cosmos.git,3431,C++,77699,329,3431,2488,13028,1523,10327,False,GNU General Public License v3.0
+949,12992,https://github.com/ahmetb/kubectx.git,929,Go,934,121,929,45,12992,12,245,False,Apache License 2.0
+950,12969,https://github.com/Konloch/bytecode-viewer.git,1010,Java,647858,369,1010,57,12969,0,1113,False,GNU General Public License v3.0
+951,12962,https://github.com/txthinking/brook.git,2380,Go,35660,494,2380,14,12962,0,671,False,GNU General Public License v3.0
+952,12961,https://github.com/expo/create-react-native-app.git,1437,TypeScript,1688,268,1437,9,12961,1,370,False,"BSD 3-Clause ""New"" or ""Revised"" License"
+953,13034,https://github.com/authelia/authelia.git,690,Go,25603,153,690,122,13034,25,2784,False,Apache License 2.0
+954,12938,https://github.com/Bash-it/bash-it.git,2245,Shell,41937,329,2245,98,12938,57,3927,False,MIT License
+955,12935,https://github.com/philipwalton/solved-by-flexbox.git,1064,CSS,1811,405,1064,33,12935,11,367,False,MIT License
+956,12926,https://github.com/Curzibn/Luban.git,2190,Java,5029,355,2190,144,12926,7,187,False,Apache License 2.0
+957,12889,https://github.com/brave/brave-browser.git,1470,JavaScript,17487,343,1470,4718,12889,7,5786,False,Mozilla Public License 2.0
+958,12877,https://github.com/mockito/mockito.git,2269,Java,47752,428,2269,316,12877,8,5750,False,MIT License
+959,12884,https://github.com/jsdoc/jsdoc.git,1417,JavaScript,21570,270,1417,418,12884,52,2377,False,Apache License 2.0
+960,12862,https://github.com/xtaci/kcptun.git,2497,Go,7022,595,2497,87,12862,3,408,False,MIT License
+961,12846,https://github.com/microsoft/dotnet.git,2050,HTML,3155,1348,2050,220,12846,12,1198,False,MIT License
+962,12841,https://github.com/Flipboard/react-canvas.git,964,JavaScript,102,412,964,79,12841,16,84,False,"BSD 3-Clause ""New"" or ""Revised"" License"
+963,12838,https://github.com/xtermjs/xterm.js.git,1270,TypeScript,15123,179,1270,169,12838,10,7683,False,MIT License
+964,12825,https://github.com/GoogleContainerTools/skaffold.git,1416,Go,95555,195,1416,568,12825,10,8113,False,Apache License 2.0
+965,12828,https://github.com/cubiq/iscroll.git,3903,JavaScript,1586,502,3903,579,12828,93,92,False,MIT License
+966,12819,https://github.com/the1812/Bilibili-Evolved.git,1172,TypeScript,289130,97,1172,333,12819,3,6558,False,MIT License
+967,12853,https://github.com/bcicen/ctop.git,496,Go,3592,160,496,71,12853,10,620,False,MIT License
+968,12811,https://github.com/selectize/selectize.js.git,3714,JavaScript,14324,292,3714,31,12811,8,901,False,Apache License 2.0
+969,12848,https://github.com/boltdb/bolt.git,1815,Go,1326,352,1815,84,12848,0,816,False,MIT License
+970,12790,https://github.com/pomber/git-history.git,520,JavaScript,34372,136,520,71,12790,20,258,False,MIT License
+971,12784,https://github.com/sorin-ionescu/prezto.git,4455,Shell,2224,219,4455,188,12784,55,1988,False,MIT License
+972,12748,https://github.com/ether/etherpad-lite.git,2384,JavaScript,33772,356,2384,109,12748,16,7986,False,Apache License 2.0
+973,12745,https://github.com/turbolinks/turbolinks.git,643,TypeScript,596,188,643,100,12745,29,359,False,MIT License
+974,12748,https://github.com/filp/whoops.git,591,PHP,1700,193,591,5,12748,1,1169,False,MIT License
+975,12746,https://github.com/Semantic-Org/Semantic-UI-React.git,3876,JavaScript,197942,224,3876,163,12746,18,3099,False,MIT License
+976,12769,https://github.com/GoogleContainerTools/distroless.git,729,Starlark,5224,186,729,44,12769,1,971,False,Apache License 2.0
+977,12721,https://github.com/reduxjs/redux-devtools.git,1009,TypeScript,26096,233,1009,106,12721,24,1053,False,MIT License
+978,12727,https://github.com/you-dont-need/You-Dont-Need-Momentjs.git,327,JavaScript,898,146,327,30,12727,6,249,False,MIT License
+979,12721,https://github.com/google/gvisor.git,1061,Go,81385,314,1061,716,12721,174,6702,False,Apache License 2.0
+980,12703,https://github.com/DIYgod/DPlayer.git,2188,JavaScript,10945,385,2188,304,12703,39,1204,False,MIT License
+981,12702,https://github.com/wechaty/wechaty.git,1799,TypeScript,8995,363,1799,233,12702,4,7082,False,Apache License 2.0
+982,12695,https://github.com/twbs/bootstrap-sass.git,3665,SCSS,3183,552,3665,19,12695,3,1039,False,MIT License
+983,12694,https://github.com/kubernetes/ingress-nginx.git,6506,Go,136058,292,6506,315,12694,66,6408,False,Apache License 2.0
+984,12688,https://github.com/xiandanin/magnetW.git,2213,JavaScript,7347,298,2213,32,12688,3,58,False,GNU General Public License v3.0
+985,12695,https://github.com/CachetHQ/Cachet.git,1526,PHP,38910,288,1526,360,12695,77,7274,False,"BSD 3-Clause ""New"" or ""Revised"" License"
+986,12682,https://github.com/Foundry376/Mailspring.git,810,C,114425,176,810,8,12682,5,7410,False,GNU General Public License v3.0
+987,12675,https://github.com/google/guetzli.git,1016,C++,490,495,1016,123,12675,20,145,False,Apache License 2.0
+988,12693,https://github.com/trimstray/nginx-admins-handbook.git,1017,Shell,82205,342,1017,2,12693,1,1337,False,MIT License
+989,12659,https://github.com/redwoodjs/redwood.git,597,TypeScript,199626,81,597,344,12659,56,6218,False,MIT License
+990,12647,https://github.com/dutchcoders/transfer.sh.git,1328,Go,34655,206,1328,29,12647,4,577,False,MIT License
+991,12640,https://github.com/NodeBB/NodeBB.git,2545,JavaScript,74535,381,2545,184,12640,25,23859,False,GNU General Public License v3.0
+992,12632,https://github.com/leandromoreira/digital_video_introduction.git,1094,Jupyter Notebook,27422,419,1094,17,12632,2,423,False,"BSD 3-Clause ""New"" or ""Revised"" License"
+993,12625,https://github.com/flarum/flarum.git,1386,PHP,723,543,1386,0,12625,0,338,False,MIT License
+994,12685,https://github.com/trekhleb/learn-python.git,2042,Python,146,717,2042,5,12685,4,52,False,MIT License
+995,12647,https://github.com/faressoft/terminalizer.git,456,JavaScript,3733,124,456,107,12647,26,157,False,MIT License
+996,12592,https://github.com/redux-form/redux-form.git,1682,JavaScript,10353,176,1682,504,12592,31,2059,False,MIT License
+997,12603,https://github.com/openai/baselines.git,4316,Python,6620,585,4316,477,12603,83,347,False,MIT License
+998,12586,https://github.com/node-inspector/node-inspector.git,760,JavaScript,7522,254,760,239,12586,17,621,False,"BSD 2-Clause ""Simplified"" License"
+999,12585,https://github.com/Intervention/image.git,1412,PHP,1421,277,1412,348,12585,27,747,False,MIT License
+1000,12590,https://github.com/apollographql/apollo-server.git,1933,TypeScript,112869,216,1933,476,12590,117,6984,False,MIT License
+1001,12578,https://github.com/apache/hadoop.git,7823,Java,539980,1011,7823,582,12578,582,25842,False,Other
+1002,12586,https://github.com/gollum/gollum.git,1585,Ruby,16199,265,1585,55,12586,7,2368,False,MIT License
+1003,12604,https://github.com/aleju/imgaug.git,2288,Python,28618,229,2288,277,12604,9,2913,False,MIT License
+1004,12555,https://github.com/BrainJS/brain.js.git,1018,TypeScript,22625,245,1018,24,12555,1,1466,False,MIT License
+1005,12548,https://github.com/nrwl/nx.git,1187,TypeScript,80398,132,1187,578,12548,60,5613,False,MIT License
+1006,12576,https://github.com/arialdomartini/Back-End-Developer-Interview-Questions.git,1602,None,363,494,1602,15,12576,3,360,False,GNU General Public License v2.0
+1007,12562,https://github.com/revel/revel.git,1408,Go,2827,528,1408,87,12562,5,1645,False,MIT License
+1008,12527,https://github.com/XIU2/TrackersListCollection.git,1076,None,5871,219,1076,1,12527,0,2219,False,GNU General Public License v3.0
+1009,12541,https://github.com/ory/hydra.git,1215,Go,97064,227,1215,91,12541,16,3086,False,Apache License 2.0
+1010,12525,https://github.com/wix/react-native-navigation.git,2689,Objective-C,126786,520,2689,172,12525,7,5421,False,MIT License
+1011,12568,https://github.com/umijs/qiankun.git,1602,TypeScript,18135,231,1602,235,12568,20,675,False,MIT License
+1012,12531,https://github.com/jessfraz/dockerfiles.git,2268,Dockerfile,74063,439,2268,74,12531,23,1596,False,MIT License
+1013,12512,https://github.com/apache/predictionio.git,2020,Scala,36295,765,2020,80,12512,17,4495,False,Apache License 2.0
+1014,12509,https://github.com/uxsolutions/bootstrap-datepicker.git,6197,JavaScript,5906,458,6197,864,12509,97,1674,False,Apache License 2.0
+1015,12496,https://github.com/onnx/onnx.git,2702,C++,21328,429,2702,276,12496,77,1946,False,Apache License 2.0
+1016,12605,https://github.com/williamfiset/Algorithms.git,3442,Java,1163336,392,3442,76,12605,25,1519,False,MIT License
+1017,12509,https://github.com/facebook/stetho.git,1145,Java,2353,382,1145,81,12509,19,588,False,MIT License

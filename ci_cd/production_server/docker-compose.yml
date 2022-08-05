@@ -4,6 +4,7 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
+    image: prj:v1
     restart: always
     ports:
       - "5100:5100"
@@ -23,11 +24,14 @@ services:
   worker_1:
     build:
       context: .
+      dockerfile: Dockerfile
+    image: prj:v1
     hostname: worker_1
     entrypoint: celery
-    command: -A workerA worker --loglevel=debug
+    command: -A workerA worker --loglevel=info
     volumes:
       - .:/app
+      - .:/addv
     links:
       - rabbit
     depends_on:

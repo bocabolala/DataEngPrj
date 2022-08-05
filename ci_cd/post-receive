@@ -1,0 +1,12 @@
+#!/bin/bash
+
+while read oldrev newrev ref
+do
+  if [[ $ref =~ .*/master$ ]];
+  then
+        echo "Master ref received. Deploying master branch to production..."
+        sudo git --work-tree=/home/appuser/DE2_Project/ci_cd/production_server --git-dir=/home/appuser/jump_dir checkout -f
+  else
+        echo "Ref $ref successfully received. Doing nothing: only the master branch may be deployed on this server."
+  fi
+done

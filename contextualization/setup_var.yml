@@ -1,0 +1,5 @@
+prod1_addr: 192.168.2.163
+prod2_addr: 192.168.2.9
+prod3_addr: 192.168.2.192
+dev1_addr: 192.168.2.63
+default_jumpd_path: /home/appuser/jump_dir
